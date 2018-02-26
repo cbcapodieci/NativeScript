@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.android\build-cache\c3ac8cb33576a3a329c0ed86eaa9e1244e5b6d25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1434178563a47e0c7ff12f2587c6e1a0a81844cb.jar" />
+    </item>
+
+</items>
