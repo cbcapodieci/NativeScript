@@ -3,10 +3,15 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\app.routing.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\main.aot.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\main.js
-C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\item\item-detail.component.js
-C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\item\item.js
-C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\item\item.service.js
-C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\item\items.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\dishdetail\dishdetail.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\menu\menu.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\dish.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\process-httpmsg.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\baseurl.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\comment.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\dish.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\drawer\drawer.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\drawer\drawer.page.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\dom-adapter.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\element-registry.js
@@ -74,6 +79,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-telerik-ui\scripts\eula-prompt.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js

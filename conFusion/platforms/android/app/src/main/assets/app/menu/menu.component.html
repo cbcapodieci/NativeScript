@@ -1,6 +1,12 @@
 <ActionBar title="Menu" class="action-bar">
 </ActionBar>
-<StackLayout class="page">
+<RadSideDrawer #drawerComponent tkToggleNavButton showOverNavigation="true">
+    <ScrollView tkDrawerContent class="sidedrawer-left">
+        <StackLayout horizontalAlign="left">
+            <drawer-content></drawer-content>
+        </StackLayout>
+    </ScrollView>
+<StackLayout tkMainContent class="page">
     <ListView [items]="dishes" class="list-group" *ngIf="dishes">
         <ng-template let-dish="item">
             <StackLayout orientation="horizontal" class="list-group-item" 
@@ -16,3 +22,4 @@
     <ActivityIndicator busy="true"  *ngIf="!(dishes || errMess)" width="50" height="50" class="activity-indicator"></ActivityIndicator>
     <Label *ngIf="errMess" [text]="'Error: ' + errMess"></Label>
 </StackLayout>
+</RadSideDrawer>
