@@ -4,6 +4,10 @@
         "directory": "..\\..\\node_modules\\nativescript-angular"
     },
     {
+        "name": "nativescript-ngx-fonticon",
+        "directory": "..\\..\\node_modules\\nativescript-ngx-fonticon"
+    },
+    {
         "name": "nativescript-telerik-ui",
         "directory": "..\\..\\node_modules\\nativescript-telerik-ui"
     },

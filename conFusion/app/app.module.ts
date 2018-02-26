@@ -17,6 +17,8 @@ import { ProcessHTTPMsgService } from './services/process-httpmsg.service';
 import { PromotionService } from './services/promotion.service';
 import { LeaderService } from './services/leader.service';
 
+import { TNSFontIconModule } from 'nativescript-ngx-fonticon';
+
 import { baseURL } from './shared/baseurl';
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -33,7 +35,10 @@ import { baseURL } from './shared/baseurl';
         NativeScriptModule,
         AppRoutingModule,
         NativeScriptHttpModule,
-        NativeScriptUISideDrawerModule
+        NativeScriptUISideDrawerModule,
+        TNSFontIconModule.forRoot({
+            'fa': './fonts/font-awesome.min.css'
+        })
     ],
     declarations: [
         AppComponent,
