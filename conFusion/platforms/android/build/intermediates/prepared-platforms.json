@@ -13,6 +13,7 @@
     "nativescript-ngx-fonticon": true,
     "nativescript-telerik-ui": true,
     "nativescript-theme-core": true,
+    "nativescript-toasty": true,
     "reflect-metadata": true,
     "rxjs": true,
     "tns-core-modules": true,
