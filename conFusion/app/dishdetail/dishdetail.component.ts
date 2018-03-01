@@ -13,7 +13,7 @@ import 'rxjs/add/operator/switchMap';
 
 @Component({
   selector: 'app-dishdetail',
-    moduleId: module.id,
+  moduleId: module.id,
   templateUrl: './dishdetail.component.html',
   styleUrls: ['./dishdetail.component.css']
 })

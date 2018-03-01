@@ -1,9 +1,9 @@
 {
-	"time": "Wed Feb 28 2018 23:17:07 GMT-0500 (Eastern Standard Time)",
+	"time": "Thu Mar 01 2018 12:03:30 GMT-0500 (Eastern Standard Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"projectFileHash": "a83bf376fc1ff4b177edb42f191b457f5711818b5a3cfa9cd93fadbd083bf1bf",
 	"changesRequireBuildTime": "Wed Feb 28 2018 23:17:07 GMT-0500 (Eastern Standard Time)"
 }
