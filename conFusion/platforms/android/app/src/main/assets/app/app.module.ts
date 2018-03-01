@@ -22,6 +22,7 @@ import { PromotionService } from './services/promotion.service';
 import { LeaderService } from './services/leader.service';
 import { FavoriteService } from './services/favorite.service';
 import { ReservationComponent } from './reservation/reservation.component';
+import { ReservationModalComponent } from "./reservationmodal/reservationmodal.component";
 
 import { TNSFontIconModule } from 'nativescript-ngx-fonticon';
 
@@ -58,8 +59,11 @@ import { baseURL } from './shared/baseurl';
         ContactComponent,
         AboutComponent,
         FavoritesComponent,
-        ReservationComponent
+        ReservationComponent,
+        ReservationModalComponent
     ],
+    entryComponents: [ReservationModalComponent],
+    
     providers: [
         {provide: 'BaseURL', useValue: baseURL},
         DishService,
