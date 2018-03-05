@@ -15,15 +15,16 @@ import { HomeComponent } from './home/home.component';
 import { ContactComponent } from "./contact/contact.component";
 import { AboutComponent } from "./about/about.component";
 import { FavoritesComponent } from './favorites/favorites.component';
+import { ReservationComponent } from './reservation/reservation.component';
+import { ReservationModalComponent } from "./reservationmodal/reservationmodal.component";
+import { CommentComponent } from "./comment/comment.component";
 
 import { DishService } from './services/dish.service';
 import { ProcessHTTPMsgService } from './services/process-httpmsg.service';
 import { PromotionService } from './services/promotion.service';
 import { LeaderService } from './services/leader.service';
 import { FavoriteService } from './services/favorite.service';
-import { ReservationComponent } from './reservation/reservation.component';
-import { ReservationModalComponent } from "./reservationmodal/reservationmodal.component";
-import { CommentComponent } from "./comment/comment.component";
+import { CouchbaseService } from './services/couchbase.service';
 
 import { TNSFontIconModule } from 'nativescript-ngx-fonticon';
 
@@ -72,7 +73,8 @@ import { baseURL } from './shared/baseurl';
         ProcessHTTPMsgService,
         PromotionService,
         LeaderService,
-        FavoriteService
+        FavoriteService,
+        CouchbaseService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

@@ -10,6 +10,7 @@
     "@angular/router": true,
     "font-awesome": true,
     "nativescript-angular": true,
+    "nativescript-couchbase": true,
     "nativescript-ngx-fonticon": true,
     "nativescript-telerik-ui": true,
     "nativescript-theme-core": true,

@@ -3,12 +3,102 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.0\b2ece1bd57ac7b4c315b7505b65ac79cb1da4270\jackson-core-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\jackson-core-2.5.0_6b18d77ed6324b57d73190828e5a82eba3e4a9ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.github.oxo42\stateless4j\2.4.0\128aca4ace585f0b42faa739d0b968a154debb7a\stateless4j-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\stateless4j-2.4.0_5421b6da74c2cc3c9f554c31b8b5c525a6b74521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.android\build-cache\cf3b2ae58a515ca76496d33bba781310ed251898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82bc8adb671652b83ea2d785d0847435e4f3442">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_0dcd9562522f894d67ecf15e479d9fa56ebbabbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\gson-2.6.2_a324d2ee5180ba8722f51c6d6bd6b5a15795d361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.couchbase.lite\couchbase-lite-java-core\1.3.1\3807f8d70802e9bee03617bc9d0b1a0bbbdab656\couchbase-lite-java-core-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3807f8d70802e9bee03617bc9d0b1a0bbbdab656">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\couchbase-lite-java-core-1.3.1_d73366fdbf0effdc14e91ef592cdc4079767c613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\okhttp-3.3.1_7da1a9d693656796f43da55ab3f20958db0cb6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Bryce\.android\build-cache\b2c5129e151e762b7bbfcc6004fbb96ee3335730\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
         <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_ff527a92d2769f024897b59eabda13fd6d4f2713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\okio-1.8.0_be20f420035bca959493d7d890e28d8d15626000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.android\build-cache\67f7bad5135709937f06c87434e41e95331c9f28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2ce3006140ca3087f08a9f0ba1211255253474c5">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_73f84bc8251b2e7ae2f036a189dfa0691ccd6bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.0\a2a55a3375bc1cef830ca426d68d2ea22961190e\jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\jackson-annotations-2.5.0_620fdc069d1e81b1b74e5f2380604e5d1fdf3b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.0\489b7552dd3322b63f694122d16ce62c21c303b5\jackson-databind-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\jackson-databind-2.5.0_94fa17ab92c117d8b8675a92498abc0addb87f66.jar" />
     </item>
 
 </items>
