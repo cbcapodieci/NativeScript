@@ -1,25 +1,26 @@
 import { Component, OnInit, Inject, ViewContainerRef } from '@angular/core';
 import { Dish } from '../shared/dish';
 import { Comment } from '../shared/comment';
-
 import { DishService } from '../services/dish.service';
-import { FavoriteService } from '../services/favorite.service';
 
 import { ActivatedRoute, Params } from '@angular/router';
 import { RouterExtensions } from 'nativescript-angular/router';
-import { TNSFontIconService } from 'nativescript-ngx-fonticon';
-import { Toasty } from 'nativescript-toasty';
 import 'rxjs/add/operator/switchMap';
 
-import { action } from "tns-core-modules/ui/dialogs";
-import { ModalDialogOptions, ModalDialogService } from "nativescript-angular";
-import { CommentComponent } from "../comment/comment.component";
+import { FavoriteService } from '../services/favorite.service';
+import { TNSFontIconService } from 'nativescript-ngx-fonticon';
+import { Toasty } from 'nativescript-toasty';
+
+import { action } from "ui/dialogs";
+
+import { ModalDialogService, ModalDialogOptions } from "nativescript-angular/modal-dialog";
+import { CommentComponent } from '../comment/comment.component';
 
 @Component({
-  selector: 'app-dishdetail',
-  moduleId: module.id,
-  templateUrl: './dishdetail.component.html',
-  styleUrls: ['./dishdetail.component.css']
+    selector: 'app-dishdetail',
+    moduleId: module.id,
+    templateUrl: './dishdetail.component.html',
+    styleUrls: ['./dishdetail.component.css']
 })
 export class DishdetailComponent implements OnInit {
 
@@ -29,87 +30,94 @@ export class DishdetailComponent implements OnInit {
   avgstars: string;
   numcomments: number;
   favorite: boolean = false;
-  showComments: boolean = false;
 
-  constructor(private dishservice: DishService,
-    private favoriteservice: FavoriteService,
+  constructor(private favoriteservice: FavoriteService,
     private fonticon: TNSFontIconService, 
+    private dishservice: DishService,
     private route: ActivatedRoute,
     private routerExtensions: RouterExtensions,
-    private modalService: ModalDialogService,
+    private modalService: ModalDialogService, 
     private vcRef: ViewContainerRef,
     @Inject('BaseURL') private BaseURL) { }
 
-    ngOnInit() {
-      this.route.params
-        .switchMap((params: Params) => this.dishservice.getDish(+params['id']))
-        .subscribe(dish => { 
-            this.dish = dish;
-            this.favorite = this.favoriteservice.isFavorite(this.dish.id);
-            this.numcomments = this.dish.comments.length;
-  
-            let total = 0;
-            this.dish.comments.forEach(comment => total += comment.rating);
-            this.avgstars = (total/this.numcomments).toFixed(2);
-          },
-          errmess => { this.dish = null; this.errMess = <any>errmess; });
-    }
-  
-    addToFavorites() {
-      if (!this.favorite) {
-        console.log('Adding to Favorites', this.dish.id);
-        this.favorite = this.favoriteservice.addFavorite(this.dish.id);
-        const toast = new Toasty('Added dish ' + this.dish.id, 'short', 'bottom');
-        toast.show();
-      }
-    }
+  ngOnInit() {
 
+    this.route.params
+      .switchMap((params: Params) => this.dishservice.getDish(+params['id']))
+      .subscribe(dish => { 
+          this.dish = dish;
+          this.favorite = this.favoriteservice.isFavorite(this.dish.id);
+          this.numcomments = this.dish.comments.length;
+          let total = 0;
+          this.dish.comments.forEach(comment => total += comment.rating);
+          this.avgstars = (total/this.numcomments).toFixed(2);
+        },
+        errmess => { this.dish = null; this.errMess = <any>errmess; });
+  }
+
+  actionPopup(){
+    let options = {
+      title: "Actions",
+      actions: ["Add to Favorites", "Add Comment"],
+      cancelButtonText: "Cancel"
+    };
+
+    action(options).then((result) => {
+      if (result == "Add to Favorites") {
+        if (this.favorite){
+          const toast = new Toasty("Already in Favorites");
+          toast.show();
+        }
+        this.addToFavorites();
+      } 
+      if (result == "Add Comment") {
+        console.log(result);
+        this.createModalView();
+      }     
+    });
+  } 
+
+  addToFavorites() {
+    if (!this.favorite) {
+      console.log('Adding to Favorites', this.dish.id);
+      this.favorite = this.favoriteservice.addFavorite(this.dish.id);
+      const toast = new Toasty("Added Dish "+ this.dish.id, "short", "bottom");
+      toast.show();
+    }
+  }
+
+  
   goBack(): void {
     this.routerExtensions.back();
   }
 
 
-showDialog(): void {
-  let options = {
-      title: "Actions",
-      message: "Select an Action",
-      cancelButtonText: "Cancel",
-      actions: ["Add to Favorites", "Add Comment"]
-  };
+  createModalView() {
 
-  action(options).then((result) => {
-      console.log(result);
-      switch(result) {
-          case "Add to Favorites":
-              this.addToFavorites();
-              break;
-          case "Add Comment":
-              this.showCommentModalForm();
-              break;
+    let options: ModalDialogOptions = {
+        viewContainerRef: this.vcRef,
+        fullscreen: false
+    };
+
+    this.modalService.showModal(CommentComponent, options).then(data => {
+      
+      if (data.author == "" || data.comment == ""){
+        const toast = new Toasty("Name and Comment cannot be Blank");
+        toast.show();
+      } else {
+        this.dish.comments.push(data);
+        
+        this.numcomments = this.dish.comments.length;
+        let total = 0;
+        this.dish.comments.forEach(comment => total += comment.rating);
+        this.avgstars = (total/this.numcomments).toFixed(2);
+        const toast = new Toasty("Comment Added");
+        toast.show();
       }
-  });
-}
+    });
 
-showCommentModalForm(): void {
-  let options: ModalDialogOptions = {
-      viewContainerRef: this.vcRef,
-      fullscreen: false
-  };
-  this.modalService.showModal(CommentComponent, options)
-      .then((result: any) => {
-          const d = new Date();
-          const n = d.toISOString();
-          this.comment = {
-              author: result.author,
-              comment: result.comment,
-              rating: result.rating,
-              date: n
-          };
-          let total = 0;
-          this.dish.comments.push(this.comment);
-          this.numcomments = this.dish.comments.length;
-          this.dish.comments.forEach(comment => total += comment.rating);
-          this.avgstars = (total/this.numcomments).toFixed(2);
-      });
-}
+  }
+
+
+
 }

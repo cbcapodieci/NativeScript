@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 04 23:04:22 EST 2018
+#Thu Mar 08 23:49:47 EST 2018
 2385.set=ASSET
 3093.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\nativescript-angular\\animations\\animation-driver.metadata.json
 4800.set=ASSET
@@ -3889,7 +3889,7 @@
 154.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_
 6484.set=ASSET
 2132.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\rxjs\\src\\operators\\single.ts
-634.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\layout-v11\\notification_template_big_media.xml
+634.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\color\\abc_tint_spinner.xml
 4869.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 5259.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\extra\\guz.d.ts
 3896.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
@@ -13990,7 +13990,7 @@ count=7105
 153.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 6474.set=ANDROID_RESOURCE
 2131.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\rxjs\\add\\operator\\delayWhen.d.ts
-633.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\color\\abc_tint_spinner.xml
+633.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\layout-v11\\notification_template_big_media.xml
 4868.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 5258.file=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\extra\\lo.js.map
 3895.base=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
