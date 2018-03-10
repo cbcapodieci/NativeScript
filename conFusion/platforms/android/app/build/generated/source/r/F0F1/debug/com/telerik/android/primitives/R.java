@@ -462,8 +462,8 @@ public final class R {
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int hamburger = 0x7f02005d;
         public static final int hmb = 0x7f02005e;
-        public static final int notification_template_icon_bg = 0x7f020075;
-        public static final int tab_view_popup_background = 0x7f020074;
+        public static final int notification_template_icon_bg = 0x7f020077;
+        public static final int tab_view_popup_background = 0x7f020076;
     }
     public static final class id {
         public static final int action0 = 0x7f0c0095;

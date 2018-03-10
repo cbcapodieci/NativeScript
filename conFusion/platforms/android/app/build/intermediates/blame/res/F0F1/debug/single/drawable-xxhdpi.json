@@ -8,7 +8,15 @@
         "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\rcflogo.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\rcflogo.png"
+    },
+    {
         "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
         "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
     }
 ]
