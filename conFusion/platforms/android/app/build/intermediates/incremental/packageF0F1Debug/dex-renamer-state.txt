@@ -1,4 +1,4 @@
-#Thu Mar 08 23:49:33 EST 2018
+#Fri Mar 09 19:43:56 EST 2018
 base.0=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main\\classes.dex
