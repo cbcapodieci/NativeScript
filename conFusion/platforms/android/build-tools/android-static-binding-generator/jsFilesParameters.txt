@@ -18,6 +18,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\leader.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\process-httpmsg.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\promotion.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\services\reservation.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\baseurl.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\comment.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\shared\dish.js

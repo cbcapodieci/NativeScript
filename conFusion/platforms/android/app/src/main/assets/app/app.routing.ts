@@ -18,7 +18,7 @@ const routes: Routes = [
     { path: "contact", component: ContactComponent },
     { path: "favorites", component: FavoritesComponent },
     { path: 'dishdetail/:id', component: DishdetailComponent },
-    { path: "reservation", component: ReservationComponent },
+    { path: "reservation", component: ReservationComponent }, //Assignment 3
 ];
 
 @NgModule({
