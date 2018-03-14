@@ -1,12 +1,13 @@
 android {
-	productFlavors {
-		"nativescript-telerik-ui" {
-			dimension "nativescript-telerik-ui"
-		}
-	}
+    productFlavors {
+        "nativescript-locnot" {
+            dimension "nativescript-locnot"
+        }
+    }
 }
 
 dependencies {
-	compile "com.android.support:appcompat-v7:23.1.0"
-	compile "com.android.support:recyclerview-v7:23.1.0"
+//    def supportVer = project.hasProperty("supportVersion") ? supportVersion : "26.1+";
+    def supportVer = "26.1+";
+    compile "com.android.support:support-v4:$supportVer"
 }

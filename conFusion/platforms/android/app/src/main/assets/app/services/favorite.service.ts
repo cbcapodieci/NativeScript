@@ -36,13 +36,13 @@ export class FavoriteService {
         if(!this.isFavorite(id)) {
             this.favorites.push(id);
             this.couchbaseservice.updateDocument(this.docId, {"favorites": this.favorites});
-            LocalNotifications.schedule([{   // Schedule a single notification
+            LocalNotifications.schedule([{
                 id: id,
-                title: 'ConFusion Favorites',
+                title: "ConFusion Favorites",
                 body: 'Dish ' + id + ' added successfully'
-            }])
-            .then(() => console.log('Notification scheduled'),
-            (error) => console.log('Error showing nofication ' + error));
+              }])
+              .then(() => console.log('Notification scheduled'),
+                (error) => console.log('Error showing nofication ' + error));
         }
         return true;
     }

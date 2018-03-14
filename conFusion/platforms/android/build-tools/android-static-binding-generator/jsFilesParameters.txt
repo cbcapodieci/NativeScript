@@ -91,9 +91,12 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-couchbase\couchbase.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-email\email.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-local-notifications\local-notifications-common.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-local-notifications\local-notifications.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\nativescript-ngx-fonticon.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\main.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\pipes\fonticon.pipe.js

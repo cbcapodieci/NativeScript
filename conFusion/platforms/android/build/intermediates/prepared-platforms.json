@@ -11,6 +11,8 @@
     "font-awesome": true,
     "nativescript-angular": true,
     "nativescript-couchbase": true,
+    "nativescript-email": true,
+    "nativescript-local-notifications": true,
     "nativescript-ngx-fonticon": true,
     "nativescript-telerik-ui": true,
     "nativescript-theme-core": true,

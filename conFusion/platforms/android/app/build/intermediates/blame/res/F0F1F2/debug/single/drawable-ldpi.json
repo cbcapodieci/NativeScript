@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi\\background.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi\\rcflogo.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\rcflogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi\\ic_drawer.png",
+        "source": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_drawer.png"
+    }
+]
