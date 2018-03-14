@@ -11,7 +11,9 @@ import { Animation, AnimationDefinition } from "ui/animation";
 import { View } from "ui/core/view";
 import * as enums from "ui/enums";
 import { ReservationService } from "../services/reservation.service";
+import { DatePipe } from '@angular/common';
 
+import { CouchbaseService } from '../services/couchbase.service';
 
 @Component({
     selector: 'app-reservation',
@@ -29,6 +31,7 @@ export class ReservationComponent extends DrawerPage implements OnInit {
         private reservationService: ReservationService,
         private modalService: ModalDialogService,
         private vcRef: ViewContainerRef,
+        private couchbaseService:CouchbaseService,
         private formBuilder: FormBuilder) {
             super(changeDetectorRef);
 
@@ -92,7 +95,7 @@ export class ReservationComponent extends DrawerPage implements OnInit {
         this.modalService.showModal(ReservationModalComponent, options)
             .then((result: any) => {
                 if (args === "guest") {
-                    this.reservation.patchValue({guests: result });
+                    this.reservation.patchValue({ guests: result });
                 }
                 else if (args === "date-time")
                     this.reservation.patchValue({ dateTime: result });

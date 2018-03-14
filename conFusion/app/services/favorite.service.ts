@@ -7,6 +7,8 @@ import { CouchbaseService } from '../services/couchbase.service';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
 
+import * as LocalNotifications from 'nativescript-local-notifications';
+
 @Injectable()
 export class FavoriteService {
 
@@ -34,6 +36,13 @@ export class FavoriteService {
         if(!this.isFavorite(id)) {
             this.favorites.push(id);
             this.couchbaseservice.updateDocument(this.docId, {"favorites": this.favorites});
+            LocalNotifications.schedule([{   // Schedule a single notification
+                id: id,
+                title: 'ConFusion Favorites',
+                body: 'Dish ' + id + ' added successfully'
+            }])
+            .then(() => console.log('Notification scheduled'),
+            (error) => console.log('Error showing nofication ' + error));
         }
         return true;
     }
