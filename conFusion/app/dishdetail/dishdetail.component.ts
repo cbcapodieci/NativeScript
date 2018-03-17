@@ -2,26 +2,23 @@ import { Component, OnInit, Inject, ViewContainerRef } from '@angular/core';
 import { Dish } from '../shared/dish';
 import { Comment } from '../shared/comment';
 import { DishService } from '../services/dish.service';
-
+import { FavoriteService } from '../services/favorite.service';
+import { TNSFontIconService } from 'nativescript-ngx-fonticon';
 import { ActivatedRoute, Params } from '@angular/router';
 import { RouterExtensions } from 'nativescript-angular/router';
 import 'rxjs/add/operator/switchMap';
-
-import { FavoriteService } from '../services/favorite.service';
-import { TNSFontIconService } from 'nativescript-ngx-fonticon';
 import { Toasty } from 'nativescript-toasty';
-
 import { action } from "ui/dialogs";
-
 import { ModalDialogService, ModalDialogOptions } from "nativescript-angular/modal-dialog";
 import { CommentComponent } from '../comment/comment.component';
-
 import { Page } from "ui/page";
 import { Animation, AnimationDefinition } from "ui/animation";
-import { View } from "ui/core/view";
 import { SwipeGestureEventData, SwipeDirection } from "ui/gestures";
 import { Color } from 'color';
 import * as enums from "ui/enums";
+import { View } from "ui/core/view";
+import * as SocialShare from "nativescript-social-share";
+import { ImageSource, fromUrl } from "image-source";
 
 @Component({
     selector: 'app-dishdetail',
@@ -68,11 +65,48 @@ export class DishdetailComponent implements OnInit {
         errmess => { this.dish = null; this.errMess = <any>errmess; });
   }
 
+  addToFavorites() {
+    if (!this.favorite) {
+      console.log('Adding to Favorites', this.dish.id);
+      this.favorite = this.favoriteservice.addFavorite(this.dish.id);
+      const toast = new Toasty("Added Dish "+ this.dish.id, "short", "bottom");
+      toast.show();
+    }
+  }
+
+  openCommentForm() {
+    let options: ModalDialogOptions = {
+      viewContainerRef: this.vcRef,
+      fullscreen: false
+    };
+
+    this.modalService.showModal(CommentComponent, options)
+    .then((comment) => {
+      console.log(JSON.stringify(comment));
+      if (comment)
+        this.dish.comments.push(comment);
+    });
+      
+  }
+
+  socialShare() {
+    let image: ImageSource;
+
+    fromUrl(this.BaseURL + this.dish.image)
+     .then((img: ImageSource) => {
+        image = img; 
+        SocialShare.shareImage(image, "How would you like to share this image?")
+      })
+     .catch(()=> { console.log('Error loading image'); });
+
+  }
+
   actionPopup(){
     let options = {
       title: "Actions",
-      actions: ["Add to Favorites", "Add Comment"],
-      cancelButtonText: "Cancel"
+      message: "Choose Your Action",
+      cancelButtonText: "Cancel",
+      actions: ["Add to Favorites", "Add Comment", "Social Sharing"],
     };
 
     action(options).then((result) => {
@@ -83,21 +117,19 @@ export class DishdetailComponent implements OnInit {
         }
         this.addToFavorites();
       } 
-      if (result == "Add Comment") {
+
+      else if (result == "Add Comment") {
         console.log(result);
         this.createModalView();
-      }     
+          
+      }
+      else if (result === 'Social Sharing') {
+        this.socialShare();
+      }
     });
   } 
 
-  addToFavorites() {
-    if (!this.favorite) {
-      console.log('Adding to Favorites', this.dish.id);
-      this.favorite = this.favoriteservice.addFavorite(this.dish.id);
-      const toast = new Toasty("Added Dish "+ this.dish.id, "short", "bottom");
-      toast.show();
-    }
-  }
+  
 
   
   goBack(): void {

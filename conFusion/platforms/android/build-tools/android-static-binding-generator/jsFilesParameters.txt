@@ -101,6 +101,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\main.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\pipes\fonticon.pipe.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\services\fonticon.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-telerik-ui\scripts\eula-prompt.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\nativescript-toasty\toasty.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js

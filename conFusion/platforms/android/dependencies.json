@@ -20,6 +20,10 @@
         "directory": "..\\..\\node_modules\\nativescript-ngx-fonticon"
     },
     {
+        "name": "nativescript-social-share",
+        "directory": "..\\..\\node_modules\\nativescript-social-share"
+    },
+    {
         "name": "nativescript-telerik-ui",
         "directory": "..\\..\\node_modules\\nativescript-telerik-ui"
     },

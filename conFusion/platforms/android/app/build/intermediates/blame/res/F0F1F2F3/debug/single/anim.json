@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\ef1ff8031e51eda0545048e95410ae46279992aa\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\drawer_slide_in_top.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\fdb2bcbae95cf86a4f1d4c830badd2ea0202d5d0\\output\\res\\anim\\drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\ef1ff8031e51eda0545048e95410ae46279992aa\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\drawer_slide_out_top.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\fdb2bcbae95cf86a4f1d4c830badd2ea0202d5d0\\output\\res\\anim\\drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\ef1ff8031e51eda0545048e95410ae46279992aa\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\634528a8231776f3f21d7d53867683136f00adcb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bryce\\Desktop\\coursera\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Bryce\\.android\\build-cache\\ef1ff8031e51eda0545048e95410ae46279992aa\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]
