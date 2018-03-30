@@ -1,6 +1,4 @@
-import { Component } from "@angular/core";
-import { TNSFontIconService } from 'nativescript-ngx-fonticon';
-
+import {Component} from "@angular/core";
 
 @Component({
     selector: 'drawer-content',
@@ -8,6 +6,6 @@ import { TNSFontIconService } from 'nativescript-ngx-fonticon';
 })
 export class DrawerComponent {
 
-    constructor(private fonticon: TNSFontIconService) { }
-
+    constructor() {
+    }
 }

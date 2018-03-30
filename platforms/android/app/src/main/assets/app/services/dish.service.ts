@@ -12,7 +12,7 @@ import 'rxjs/add/operator/catch';
 export class DishService {
 
   constructor(public http: Http,
-              private processHTTPMsgService: ProcessHTTPMsgService) { }
+    private processHTTPMsgService: ProcessHTTPMsgService) { }
 
   getDishes(): Observable<Dish[]> {
     return this.http.get(baseURL + 'dishes')
