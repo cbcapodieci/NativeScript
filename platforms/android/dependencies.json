@@ -4,6 +4,10 @@
         "directory": "..\\..\\node_modules\\nativescript-angular"
     },
     {
+        "name": "nativescript-couchbase",
+        "directory": "..\\..\\node_modules\\nativescript-couchbase"
+    },
+    {
         "name": "nativescript-ngx-fonticon",
         "directory": "..\\..\\node_modules\\nativescript-ngx-fonticon"
     },

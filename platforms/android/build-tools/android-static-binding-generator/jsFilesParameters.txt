@@ -4,11 +4,15 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\main.aot.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\main.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\about\about.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\comment\comment.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\contact\contact.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\dishdetail\dishdetail.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\favorites\favorites.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\home\home.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\menu\menu.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\reservation\reservation.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\reservationmodal\reservationmodal.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\couchbase.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\dish.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\favorite.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\leader.service.js
@@ -85,6 +89,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-couchbase\couchbase.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
