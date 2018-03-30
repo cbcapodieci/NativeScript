@@ -16,6 +16,10 @@
         "directory": "..\\..\\node_modules\\nativescript-theme-core"
     },
     {
+        "name": "nativescript-toasty",
+        "directory": "..\\..\\node_modules\\nativescript-toasty"
+    },
+    {
         "name": "tns-core-modules",
         "directory": "..\\..\\node_modules\\tns-core-modules"
     },

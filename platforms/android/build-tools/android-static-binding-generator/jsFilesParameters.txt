@@ -6,9 +6,11 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\about\about.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\contact\contact.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\dishdetail\dishdetail.component.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\favorites\favorites.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\home\home.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\menu\menu.component.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\dish.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\favorite.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\leader.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\process-httpmsg.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\services\promotion.service.js
@@ -90,6 +92,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\pipes\fonticon.pipe.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\services\fonticon.service.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-telerik-ui\scripts\eula-prompt.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-toasty\toasty.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
