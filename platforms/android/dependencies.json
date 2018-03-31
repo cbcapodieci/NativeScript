@@ -8,6 +8,14 @@
         "directory": "..\\..\\node_modules\\nativescript-couchbase"
     },
     {
+        "name": "nativescript-email",
+        "directory": "..\\..\\node_modules\\nativescript-email"
+    },
+    {
+        "name": "nativescript-local-notifications",
+        "directory": "..\\..\\node_modules\\nativescript-local-notifications"
+    },
+    {
         "name": "nativescript-ngx-fonticon",
         "directory": "..\\..\\node_modules\\nativescript-ngx-fonticon"
     },
