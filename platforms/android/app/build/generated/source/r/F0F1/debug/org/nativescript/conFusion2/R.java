@@ -2760,13 +2760,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f020077;
-        public static final int avd_hide_password_2=0x7f020078;
-        public static final int avd_hide_password_3=0x7f020079;
+        public static final int avd_hide_password_1=0x7f020079;
+        public static final int avd_hide_password_2=0x7f02007a;
+        public static final int avd_hide_password_3=0x7f02007b;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f02007a;
-        public static final int avd_show_password_2=0x7f02007b;
-        public static final int avd_show_password_3=0x7f02007c;
+        public static final int avd_show_password_1=0x7f02007c;
+        public static final int avd_show_password_2=0x7f02007d;
+        public static final int avd_show_password_3=0x7f02007e;
         public static final int background=0x7f020055;
         public static final int design_bottom_navigation_item_background=0x7f020056;
         public static final int design_fab_background=0x7f020057;
@@ -2778,29 +2778,31 @@ containing a value of this type.
         public static final int hamburger=0x7f02005d;
         public static final int hmb=0x7f02005e;
         public static final int ic_collapse=0x7f02005f;
-        public static final int ic_expand=0x7f020060;
-        public static final int icon=0x7f020061;
-        public static final int logo=0x7f020062;
-        public static final int navigation_empty_icon=0x7f020063;
-        public static final int notification_action_background=0x7f020064;
-        public static final int notification_bg=0x7f020065;
-        public static final int notification_bg_low=0x7f020066;
-        public static final int notification_bg_low_normal=0x7f020067;
-        public static final int notification_bg_low_pressed=0x7f020068;
-        public static final int notification_bg_normal=0x7f020069;
-        public static final int notification_bg_normal_pressed=0x7f02006a;
-        public static final int notification_icon_background=0x7f02006b;
-        public static final int notification_template_icon_bg=0x7f020075;
-        public static final int notification_template_icon_low_bg=0x7f020076;
-        public static final int notification_tile_bg=0x7f02006c;
-        public static final int notify_panel_notification_icon_bg=0x7f02006d;
-        public static final int pressable_item_background=0x7f02006e;
-        public static final int selectable_item_background=0x7f02006f;
-        public static final int shade_bottom=0x7f020070;
-        public static final int shade_corner=0x7f020071;
-        public static final int shade_right=0x7f020072;
-        public static final int splash_screen=0x7f020073;
-        public static final int tab_view_popup_background=0x7f020074;
+        public static final int ic_drawer=0x7f020060;
+        public static final int ic_expand=0x7f020061;
+        public static final int icon=0x7f020062;
+        public static final int logo=0x7f020063;
+        public static final int navigation_empty_icon=0x7f020064;
+        public static final int notification_action_background=0x7f020065;
+        public static final int notification_bg=0x7f020066;
+        public static final int notification_bg_low=0x7f020067;
+        public static final int notification_bg_low_normal=0x7f020068;
+        public static final int notification_bg_low_pressed=0x7f020069;
+        public static final int notification_bg_normal=0x7f02006a;
+        public static final int notification_bg_normal_pressed=0x7f02006b;
+        public static final int notification_icon_background=0x7f02006c;
+        public static final int notification_template_icon_bg=0x7f020077;
+        public static final int notification_template_icon_low_bg=0x7f020078;
+        public static final int notification_tile_bg=0x7f02006d;
+        public static final int notify_panel_notification_icon_bg=0x7f02006e;
+        public static final int pressable_item_background=0x7f02006f;
+        public static final int rcflogo=0x7f020070;
+        public static final int selectable_item_background=0x7f020071;
+        public static final int shade_bottom=0x7f020072;
+        public static final int shade_corner=0x7f020073;
+        public static final int shade_right=0x7f020074;
+        public static final int splash_screen=0x7f020075;
+        public static final int tab_view_popup_background=0x7f020076;
     }
     public static final class id {
         public static final int action0=0x7f0c0095;
@@ -3518,35 +3520,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background org.nativescript.conFusion2:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit org.nativescript.conFusion2:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked org.nativescript.conFusion2:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd org.nativescript.conFusion2:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions org.nativescript.conFusion2:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft org.nativescript.conFusion2:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight org.nativescript.conFusion2:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart org.nativescript.conFusion2:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation org.nativescript.conFusion2:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout org.nativescript.conFusion2:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions org.nativescript.conFusion2:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider org.nativescript.conFusion2:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height org.nativescript.conFusion2:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll org.nativescript.conFusion2:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator org.nativescript.conFusion2:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout org.nativescript.conFusion2:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon org.nativescript.conFusion2:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle org.nativescript.conFusion2:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding org.nativescript.conFusion2:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo org.nativescript.conFusion2:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode org.nativescript.conFusion2:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme org.nativescript.conFusion2:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding org.nativescript.conFusion2:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle org.nativescript.conFusion2:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle org.nativescript.conFusion2:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle org.nativescript.conFusion2:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title org.nativescript.conFusion2:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle org.nativescript.conFusion2:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background org.nativescript.conFusion:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit org.nativescript.conFusion:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked org.nativescript.conFusion:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd org.nativescript.conFusion:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions org.nativescript.conFusion:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft org.nativescript.conFusion:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight org.nativescript.conFusion:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart org.nativescript.conFusion:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation org.nativescript.conFusion:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout org.nativescript.conFusion:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions org.nativescript.conFusion:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider org.nativescript.conFusion:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height org.nativescript.conFusion:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll org.nativescript.conFusion:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator org.nativescript.conFusion:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout org.nativescript.conFusion:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon org.nativescript.conFusion:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle org.nativescript.conFusion:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding org.nativescript.conFusion:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo org.nativescript.conFusion:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode org.nativescript.conFusion:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme org.nativescript.conFusion:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding org.nativescript.conFusion:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle org.nativescript.conFusion:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle org.nativescript.conFusion:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle org.nativescript.conFusion:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title org.nativescript.conFusion:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle org.nativescript.conFusion:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3589,17 +3591,17 @@ containing a value of this type.
             0x7f010062
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#background}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:background
+          @attr name org.nativescript.conFusion:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3607,11 +3609,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:backgroundSplit
+          @attr name org.nativescript.conFusion:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3619,11 +3621,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:backgroundStacked
+          @attr name org.nativescript.conFusion:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3635,11 +3637,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetEnd
+          @attr name org.nativescript.conFusion:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3651,11 +3653,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetEndWithActions
+          @attr name org.nativescript.conFusion:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3667,11 +3669,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetLeft
+          @attr name org.nativescript.conFusion:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3683,11 +3685,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetRight
+          @attr name org.nativescript.conFusion:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3699,11 +3701,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetStart
+          @attr name org.nativescript.conFusion:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3715,21 +3717,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetStartWithNavigation
+          @attr name org.nativescript.conFusion:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:customNavigationLayout
+          @attr name org.nativescript.conFusion:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3747,21 +3749,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:displayOptions
+          @attr name org.nativescript.conFusion:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:divider
+          @attr name org.nativescript.conFusion:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3773,11 +3775,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#height}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3789,11 +3791,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:height
+          @attr name org.nativescript.conFusion:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3803,51 +3805,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:hideOnContentScroll
+          @attr name org.nativescript.conFusion:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:homeAsUpIndicator
+          @attr name org.nativescript.conFusion:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:homeLayout
+          @attr name org.nativescript.conFusion:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#icon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:icon
+          @attr name org.nativescript.conFusion:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:indeterminateProgressStyle
+          @attr name org.nativescript.conFusion:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3859,21 +3861,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:itemPadding
+          @attr name org.nativescript.conFusion:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:logo
+          @attr name org.nativescript.conFusion:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3887,21 +3889,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:navigationMode
+          @attr name org.nativescript.conFusion:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:popupTheme
+          @attr name org.nativescript.conFusion:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3913,21 +3915,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:progressBarPadding
+          @attr name org.nativescript.conFusion:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:progressBarStyle
+          @attr name org.nativescript.conFusion:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3937,21 +3939,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:subtitle
+          @attr name org.nativescript.conFusion:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:subtitleTextStyle
+          @attr name org.nativescript.conFusion:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#title}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3961,17 +3963,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:title
+          @attr name org.nativescript.conFusion:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:titleTextStyle
+          @attr name org.nativescript.conFusion:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4023,12 +4025,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background org.nativescript.conFusion2:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit org.nativescript.conFusion2:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout org.nativescript.conFusion2:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height org.nativescript.conFusion2:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle org.nativescript.conFusion2:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle org.nativescript.conFusion2:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background org.nativescript.conFusion:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit org.nativescript.conFusion:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout org.nativescript.conFusion:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height org.nativescript.conFusion:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle org.nativescript.conFusion:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle org.nativescript.conFusion:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4042,17 +4044,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010010, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#background}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:background
+          @attr name org.nativescript.conFusion:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4060,21 +4062,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:backgroundSplit
+          @attr name org.nativescript.conFusion:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:closeItemLayout
+          @attr name org.nativescript.conFusion:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#height}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4086,27 +4088,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:height
+          @attr name org.nativescript.conFusion:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:subtitleTextStyle
+          @attr name org.nativescript.conFusion:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:titleTextStyle
+          @attr name org.nativescript.conFusion:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4115,8 +4117,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable org.nativescript.conFusion2:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount org.nativescript.conFusion2:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable org.nativescript.conFusion:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount org.nativescript.conFusion:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4125,17 +4127,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:expandActivityOverflowButtonDrawable
+          @attr name org.nativescript.conFusion:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4145,7 +4147,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:initialActivityCount
+          @attr name org.nativescript.conFusion:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4155,12 +4157,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout org.nativescript.conFusion2:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout org.nativescript.conFusion2:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout org.nativescript.conFusion2:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout org.nativescript.conFusion2:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle org.nativescript.conFusion2:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout org.nativescript.conFusion2:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout org.nativescript.conFusion:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout org.nativescript.conFusion:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout org.nativescript.conFusion:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout org.nativescript.conFusion:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle org.nativescript.conFusion:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout org.nativescript.conFusion:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4181,47 +4183,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonPanelSideLayout
+          @attr name org.nativescript.conFusion:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listItemLayout
+          @attr name org.nativescript.conFusion:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listLayout
+          @attr name org.nativescript.conFusion:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:multiChoiceItemLayout
+          @attr name org.nativescript.conFusion:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4231,17 +4233,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:showTitle
+          @attr name org.nativescript.conFusion:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:singleChoiceItemLayout
+          @attr name org.nativescript.conFusion:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4251,8 +4253,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded org.nativescript.conFusion2:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded org.nativescript.conFusion:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4268,7 +4270,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4280,11 +4282,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expanded}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4294,7 +4296,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expanded
+          @attr name org.nativescript.conFusion:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4303,8 +4305,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed org.nativescript.conFusion2:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible org.nativescript.conFusion2:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed org.nativescript.conFusion:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible org.nativescript.conFusion:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4313,7 +4315,7 @@ containing a value of this type.
             0x7f01002a, 0x7f01002b
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4323,11 +4325,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:state_collapsed
+          @attr name org.nativescript.conFusion:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4337,7 +4339,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:state_collapsible
+          @attr name org.nativescript.conFusion:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4346,8 +4348,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags org.nativescript.conFusion2:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator org.nativescript.conFusion2:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags org.nativescript.conFusion:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator org.nativescript.conFusion:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4356,7 +4358,7 @@ containing a value of this type.
             0x7f01002c, 0x7f01002d
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4372,17 +4374,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:layout_scrollFlags
+          @attr name org.nativescript.conFusion:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:layout_scrollInterpolator
+          @attr name org.nativescript.conFusion:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4392,7 +4394,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat org.nativescript.conFusion2:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat org.nativescript.conFusion:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4407,13 +4409,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:srcCompat
+          @attr name org.nativescript.conFusion:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4423,9 +4425,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark org.nativescript.conFusion2:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint org.nativescript.conFusion2:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode org.nativescript.conFusion2:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark org.nativescript.conFusion:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint org.nativescript.conFusion:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode org.nativescript.conFusion:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4442,17 +4444,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:tickMark
+          @attr name org.nativescript.conFusion:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4463,11 +4465,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tickMarkTint
+          @attr name org.nativescript.conFusion:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4484,7 +4486,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:tickMarkTintMode
+          @attr name org.nativescript.conFusion:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4562,7 +4564,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps org.nativescript.conFusion2:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps org.nativescript.conFusion:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4577,14 +4579,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name org.nativescript.conFusion2:textAllCaps
+          @attr name org.nativescript.conFusion:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4593,121 +4595,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider org.nativescript.conFusion2:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground org.nativescript.conFusion2:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme org.nativescript.conFusion2:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize org.nativescript.conFusion2:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle org.nativescript.conFusion2:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle org.nativescript.conFusion2:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle org.nativescript.conFusion2:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle org.nativescript.conFusion2:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle org.nativescript.conFusion2:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme org.nativescript.conFusion2:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme org.nativescript.conFusion2:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle org.nativescript.conFusion2:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle org.nativescript.conFusion2:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance org.nativescript.conFusion2:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor org.nativescript.conFusion2:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground org.nativescript.conFusion2:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle org.nativescript.conFusion2:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable org.nativescript.conFusion2:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable org.nativescript.conFusion2:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable org.nativescript.conFusion2:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable org.nativescript.conFusion2:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable org.nativescript.conFusion2:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle org.nativescript.conFusion2:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable org.nativescript.conFusion2:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable org.nativescript.conFusion2:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground org.nativescript.conFusion2:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle org.nativescript.conFusion2:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable org.nativescript.conFusion2:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle org.nativescript.conFusion2:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle org.nativescript.conFusion2:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle org.nativescript.conFusion2:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle org.nativescript.conFusion2:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons org.nativescript.conFusion2:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle org.nativescript.conFusion2:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme org.nativescript.conFusion2:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider org.nativescript.conFusion:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground org.nativescript.conFusion:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme org.nativescript.conFusion:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize org.nativescript.conFusion:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle org.nativescript.conFusion:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle org.nativescript.conFusion:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle org.nativescript.conFusion:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle org.nativescript.conFusion:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle org.nativescript.conFusion:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme org.nativescript.conFusion:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme org.nativescript.conFusion:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle org.nativescript.conFusion:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle org.nativescript.conFusion:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance org.nativescript.conFusion:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor org.nativescript.conFusion:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground org.nativescript.conFusion:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle org.nativescript.conFusion:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable org.nativescript.conFusion:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable org.nativescript.conFusion:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable org.nativescript.conFusion:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable org.nativescript.conFusion:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable org.nativescript.conFusion:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle org.nativescript.conFusion:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable org.nativescript.conFusion:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable org.nativescript.conFusion:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground org.nativescript.conFusion:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle org.nativescript.conFusion:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable org.nativescript.conFusion:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle org.nativescript.conFusion:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle org.nativescript.conFusion:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle org.nativescript.conFusion:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle org.nativescript.conFusion:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons org.nativescript.conFusion:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle org.nativescript.conFusion:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme org.nativescript.conFusion:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle org.nativescript.conFusion2:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle org.nativescript.conFusion2:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle org.nativescript.conFusion2:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle org.nativescript.conFusion2:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle org.nativescript.conFusion2:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle org.nativescript.conFusion2:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle org.nativescript.conFusion2:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle org.nativescript.conFusion2:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall org.nativescript.conFusion2:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle org.nativescript.conFusion2:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle org.nativescript.conFusion2:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent org.nativescript.conFusion2:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating org.nativescript.conFusion2:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal org.nativescript.conFusion2:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated org.nativescript.conFusion2:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight org.nativescript.conFusion2:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal org.nativescript.conFusion2:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary org.nativescript.conFusion2:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark org.nativescript.conFusion2:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal org.nativescript.conFusion2:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground org.nativescript.conFusion2:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding org.nativescript.conFusion2:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme org.nativescript.conFusion2:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal org.nativescript.conFusion2:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical org.nativescript.conFusion2:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle org.nativescript.conFusion2:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight org.nativescript.conFusion2:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground org.nativescript.conFusion2:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor org.nativescript.conFusion2:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle org.nativescript.conFusion2:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator org.nativescript.conFusion2:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle org.nativescript.conFusion2:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator org.nativescript.conFusion2:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog org.nativescript.conFusion2:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle org.nativescript.conFusion2:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle org.nativescript.conFusion2:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight org.nativescript.conFusion2:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge org.nativescript.conFusion2:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall org.nativescript.conFusion2:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft org.nativescript.conFusion2:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight org.nativescript.conFusion2:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground org.nativescript.conFusion2:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme org.nativescript.conFusion2:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth org.nativescript.conFusion2:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle org.nativescript.conFusion2:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle org.nativescript.conFusion2:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle org.nativescript.conFusion2:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle org.nativescript.conFusion2:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator org.nativescript.conFusion2:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall org.nativescript.conFusion2:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle org.nativescript.conFusion2:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle org.nativescript.conFusion2:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground org.nativescript.conFusion2:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless org.nativescript.conFusion2:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle org.nativescript.conFusion2:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle org.nativescript.conFusion2:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle org.nativescript.conFusion2:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu org.nativescript.conFusion2:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem org.nativescript.conFusion2:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall org.nativescript.conFusion2:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader org.nativescript.conFusion2:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle org.nativescript.conFusion2:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle org.nativescript.conFusion2:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu org.nativescript.conFusion2:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem org.nativescript.conFusion2:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl org.nativescript.conFusion2:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle org.nativescript.conFusion2:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle org.nativescript.conFusion2:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar org.nativescript.conFusion2:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay org.nativescript.conFusion2:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay org.nativescript.conFusion2:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor org.nativescript.conFusion2:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor org.nativescript.conFusion2:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor org.nativescript.conFusion2:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor org.nativescript.conFusion2:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor org.nativescript.conFusion2:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor org.nativescript.conFusion2:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle org.nativescript.conFusion2:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle org.nativescript.conFusion:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle org.nativescript.conFusion:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle org.nativescript.conFusion:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle org.nativescript.conFusion:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle org.nativescript.conFusion:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle org.nativescript.conFusion:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle org.nativescript.conFusion:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle org.nativescript.conFusion:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall org.nativescript.conFusion:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle org.nativescript.conFusion:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle org.nativescript.conFusion:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent org.nativescript.conFusion:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating org.nativescript.conFusion:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal org.nativescript.conFusion:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated org.nativescript.conFusion:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight org.nativescript.conFusion:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal org.nativescript.conFusion:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary org.nativescript.conFusion:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark org.nativescript.conFusion:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal org.nativescript.conFusion:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground org.nativescript.conFusion:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding org.nativescript.conFusion:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme org.nativescript.conFusion:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal org.nativescript.conFusion:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical org.nativescript.conFusion:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle org.nativescript.conFusion:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight org.nativescript.conFusion:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground org.nativescript.conFusion:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor org.nativescript.conFusion:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle org.nativescript.conFusion:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator org.nativescript.conFusion:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle org.nativescript.conFusion:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator org.nativescript.conFusion:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog org.nativescript.conFusion:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle org.nativescript.conFusion:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle org.nativescript.conFusion:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight org.nativescript.conFusion:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge org.nativescript.conFusion:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall org.nativescript.conFusion:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft org.nativescript.conFusion:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight org.nativescript.conFusion:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground org.nativescript.conFusion:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme org.nativescript.conFusion:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth org.nativescript.conFusion:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle org.nativescript.conFusion:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle org.nativescript.conFusion:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle org.nativescript.conFusion:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle org.nativescript.conFusion:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator org.nativescript.conFusion:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall org.nativescript.conFusion:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle org.nativescript.conFusion:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle org.nativescript.conFusion:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground org.nativescript.conFusion:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless org.nativescript.conFusion:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle org.nativescript.conFusion:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle org.nativescript.conFusion:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle org.nativescript.conFusion:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu org.nativescript.conFusion:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem org.nativescript.conFusion:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall org.nativescript.conFusion:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader org.nativescript.conFusion:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle org.nativescript.conFusion:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle org.nativescript.conFusion:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu org.nativescript.conFusion:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem org.nativescript.conFusion:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl org.nativescript.conFusion:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle org.nativescript.conFusion:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle org.nativescript.conFusion:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar org.nativescript.conFusion:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay org.nativescript.conFusion:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay org.nativescript.conFusion:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor org.nativescript.conFusion:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor org.nativescript.conFusion:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor org.nativescript.conFusion:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor org.nativescript.conFusion:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor org.nativescript.conFusion:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor org.nativescript.conFusion:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle org.nativescript.conFusion:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4857,37 +4859,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a1, 0x7f0100a2, 0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarDivider
+          @attr name org.nativescript.conFusion:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarItemBackground
+          @attr name org.nativescript.conFusion:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarPopupTheme
+          @attr name org.nativescript.conFusion:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4907,111 +4909,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:actionBarSize
+          @attr name org.nativescript.conFusion:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarSplitStyle
+          @attr name org.nativescript.conFusion:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarStyle
+          @attr name org.nativescript.conFusion:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarTabBarStyle
+          @attr name org.nativescript.conFusion:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarTabStyle
+          @attr name org.nativescript.conFusion:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarTabTextStyle
+          @attr name org.nativescript.conFusion:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarTheme
+          @attr name org.nativescript.conFusion:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionBarWidgetTheme
+          @attr name org.nativescript.conFusion:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionButtonStyle
+          @attr name org.nativescript.conFusion:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionDropDownStyle
+          @attr name org.nativescript.conFusion:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionMenuTextAppearance
+          @attr name org.nativescript.conFusion:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5019,181 +5021,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:actionMenuTextColor
+          @attr name org.nativescript.conFusion:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeBackground
+          @attr name org.nativescript.conFusion:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeCloseButtonStyle
+          @attr name org.nativescript.conFusion:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeCloseDrawable
+          @attr name org.nativescript.conFusion:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeCopyDrawable
+          @attr name org.nativescript.conFusion:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeCutDrawable
+          @attr name org.nativescript.conFusion:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeFindDrawable
+          @attr name org.nativescript.conFusion:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModePasteDrawable
+          @attr name org.nativescript.conFusion:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModePopupWindowStyle
+          @attr name org.nativescript.conFusion:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeSelectAllDrawable
+          @attr name org.nativescript.conFusion:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeShareDrawable
+          @attr name org.nativescript.conFusion:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeSplitBackground
+          @attr name org.nativescript.conFusion:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeStyle
+          @attr name org.nativescript.conFusion:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionModeWebSearchDrawable
+          @attr name org.nativescript.conFusion:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionOverflowButtonStyle
+          @attr name org.nativescript.conFusion:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionOverflowMenuStyle
+          @attr name org.nativescript.conFusion:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:activityChooserViewStyle
+          @attr name org.nativescript.conFusion:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:alertDialogButtonGroupStyle
+          @attr name org.nativescript.conFusion:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5203,27 +5205,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:alertDialogCenterButtons
+          @attr name org.nativescript.conFusion:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:alertDialogStyle
+          @attr name org.nativescript.conFusion:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:alertDialogTheme
+          @attr name org.nativescript.conFusion:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5239,117 +5241,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:autoCompleteTextViewStyle
+          @attr name org.nativescript.conFusion:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:borderlessButtonStyle
+          @attr name org.nativescript.conFusion:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonBarButtonStyle
+          @attr name org.nativescript.conFusion:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonBarNegativeButtonStyle
+          @attr name org.nativescript.conFusion:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonBarNeutralButtonStyle
+          @attr name org.nativescript.conFusion:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonBarPositiveButtonStyle
+          @attr name org.nativescript.conFusion:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonBarStyle
+          @attr name org.nativescript.conFusion:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonStyle
+          @attr name org.nativescript.conFusion:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:buttonStyleSmall
+          @attr name org.nativescript.conFusion:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:checkboxStyle
+          @attr name org.nativescript.conFusion:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:checkedTextViewStyle
+          @attr name org.nativescript.conFusion:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5360,11 +5362,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorAccent
+          @attr name org.nativescript.conFusion:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5375,11 +5377,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorBackgroundFloating
+          @attr name org.nativescript.conFusion:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5390,11 +5392,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorButtonNormal
+          @attr name org.nativescript.conFusion:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5405,11 +5407,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorControlActivated
+          @attr name org.nativescript.conFusion:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5420,11 +5422,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorControlHighlight
+          @attr name org.nativescript.conFusion:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5435,11 +5437,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorControlNormal
+          @attr name org.nativescript.conFusion:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5450,11 +5452,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorPrimary
+          @attr name org.nativescript.conFusion:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5465,11 +5467,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorPrimaryDark
+          @attr name org.nativescript.conFusion:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5480,21 +5482,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:colorSwitchThumbNormal
+          @attr name org.nativescript.conFusion:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:controlBackground
+          @attr name org.nativescript.conFusion:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5506,51 +5508,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:dialogPreferredPadding
+          @attr name org.nativescript.conFusion:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:dialogTheme
+          @attr name org.nativescript.conFusion:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:dividerHorizontal
+          @attr name org.nativescript.conFusion:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:dividerVertical
+          @attr name org.nativescript.conFusion:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:dropDownListViewStyle
+          @attr name org.nativescript.conFusion:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5562,21 +5564,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:dropdownListPreferredItemHeight
+          @attr name org.nativescript.conFusion:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:editTextBackground
+          @attr name org.nativescript.conFusion:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5584,81 +5586,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:editTextColor
+          @attr name org.nativescript.conFusion:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:editTextStyle
+          @attr name org.nativescript.conFusion:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:homeAsUpIndicator
+          @attr name org.nativescript.conFusion:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:imageButtonStyle
+          @attr name org.nativescript.conFusion:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listChoiceBackgroundIndicator
+          @attr name org.nativescript.conFusion:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listDividerAlertDialog
+          @attr name org.nativescript.conFusion:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listMenuViewStyle
+          @attr name org.nativescript.conFusion:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:listPopupWindowStyle
+          @attr name org.nativescript.conFusion:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5670,11 +5672,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:listPreferredItemHeight
+          @attr name org.nativescript.conFusion:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5686,11 +5688,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:listPreferredItemHeightLarge
+          @attr name org.nativescript.conFusion:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5702,11 +5704,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:listPreferredItemHeightSmall
+          @attr name org.nativescript.conFusion:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5718,11 +5720,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:listPreferredItemPaddingLeft
+          @attr name org.nativescript.conFusion:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5734,31 +5736,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:listPreferredItemPaddingRight
+          @attr name org.nativescript.conFusion:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:panelBackground
+          @attr name org.nativescript.conFusion:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:panelMenuListTheme
+          @attr name org.nativescript.conFusion:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5770,211 +5772,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:panelMenuListWidth
+          @attr name org.nativescript.conFusion:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:popupMenuStyle
+          @attr name org.nativescript.conFusion:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:popupWindowStyle
+          @attr name org.nativescript.conFusion:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:radioButtonStyle
+          @attr name org.nativescript.conFusion:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:ratingBarStyle
+          @attr name org.nativescript.conFusion:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:ratingBarStyleIndicator
+          @attr name org.nativescript.conFusion:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:ratingBarStyleSmall
+          @attr name org.nativescript.conFusion:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:searchViewStyle
+          @attr name org.nativescript.conFusion:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:seekBarStyle
+          @attr name org.nativescript.conFusion:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:selectableItemBackground
+          @attr name org.nativescript.conFusion:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:selectableItemBackgroundBorderless
+          @attr name org.nativescript.conFusion:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:spinnerDropDownItemStyle
+          @attr name org.nativescript.conFusion:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:spinnerStyle
+          @attr name org.nativescript.conFusion:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:switchStyle
+          @attr name org.nativescript.conFusion:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceLargePopupMenu
+          @attr name org.nativescript.conFusion:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceListItem
+          @attr name org.nativescript.conFusion:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceListItemSmall
+          @attr name org.nativescript.conFusion:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearancePopupMenuHeader
+          @attr name org.nativescript.conFusion:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceSearchResultSubtitle
+          @attr name org.nativescript.conFusion:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceSearchResultTitle
+          @attr name org.nativescript.conFusion:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:textAppearanceSmallPopupMenu
+          @attr name org.nativescript.conFusion:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5982,11 +5984,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:textColorAlertDialogListItem
+          @attr name org.nativescript.conFusion:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5994,31 +5996,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:textColorSearchUrl
+          @attr name org.nativescript.conFusion:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:toolbarNavigationButtonStyle
+          @attr name org.nativescript.conFusion:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:toolbarStyle
+          @attr name org.nativescript.conFusion:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6028,11 +6030,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowActionBar
+          @attr name org.nativescript.conFusion:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6042,11 +6044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowActionBarOverlay
+          @attr name org.nativescript.conFusion:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6056,11 +6058,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowActionModeOverlay
+          @attr name org.nativescript.conFusion:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6075,11 +6077,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowFixedHeightMajor
+          @attr name org.nativescript.conFusion:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6094,11 +6096,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowFixedHeightMinor
+          @attr name org.nativescript.conFusion:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6113,11 +6115,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowFixedWidthMajor
+          @attr name org.nativescript.conFusion:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6132,11 +6134,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowFixedWidthMinor
+          @attr name org.nativescript.conFusion:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6151,11 +6153,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowMinWidthMajor
+          @attr name org.nativescript.conFusion:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6170,11 +6172,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowMinWidthMinor
+          @attr name org.nativescript.conFusion:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6184,7 +6186,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:windowNoTitle
+          @attr name org.nativescript.conFusion:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6193,11 +6195,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground org.nativescript.conFusion2:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint org.nativescript.conFusion2:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor org.nativescript.conFusion2:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu org.nativescript.conFusion2:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground org.nativescript.conFusion:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint org.nativescript.conFusion:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor org.nativescript.conFusion:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu org.nativescript.conFusion:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6210,7 +6212,7 @@ containing a value of this type.
             0x7f0100e4
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6222,21 +6224,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:itemBackground
+          @attr name org.nativescript.conFusion:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6247,11 +6249,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:itemIconTint
+          @attr name org.nativescript.conFusion:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6262,17 +6264,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:itemTextColor
+          @attr name org.nativescript.conFusion:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#menu}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:menu
+          @attr name org.nativescript.conFusion:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6281,9 +6283,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable org.nativescript.conFusion2:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight org.nativescript.conFusion2:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed org.nativescript.conFusion2:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable org.nativescript.conFusion:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight org.nativescript.conFusion:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed org.nativescript.conFusion:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6293,7 +6295,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a4, 0x7f0100a5, 0x7f0100a6
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6303,11 +6305,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:behavior_hideable
+          @attr name org.nativescript.conFusion:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6327,11 +6329,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:behavior_peekHeight
+          @attr name org.nativescript.conFusion:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6341,7 +6343,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:behavior_skipCollapsed
+          @attr name org.nativescript.conFusion:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6350,7 +6352,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking org.nativescript.conFusion2:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking org.nativescript.conFusion:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6358,7 +6360,7 @@ containing a value of this type.
             0x7f0100a7
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6368,7 +6370,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:allowStacking
+          @attr name org.nativescript.conFusion:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6377,22 +6379,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity org.nativescript.conFusion2:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance org.nativescript.conFusion2:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim org.nativescript.conFusion2:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity org.nativescript.conFusion2:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin org.nativescript.conFusion2:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom org.nativescript.conFusion2:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd org.nativescript.conFusion2:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart org.nativescript.conFusion2:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop org.nativescript.conFusion2:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance org.nativescript.conFusion2:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration org.nativescript.conFusion2:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger org.nativescript.conFusion2:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim org.nativescript.conFusion2:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title org.nativescript.conFusion2:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled org.nativescript.conFusion2:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId org.nativescript.conFusion2:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity org.nativescript.conFusion:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance org.nativescript.conFusion:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim org.nativescript.conFusion:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity org.nativescript.conFusion:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin org.nativescript.conFusion:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom org.nativescript.conFusion:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd org.nativescript.conFusion:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart org.nativescript.conFusion:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop org.nativescript.conFusion:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance org.nativescript.conFusion:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration org.nativescript.conFusion:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger org.nativescript.conFusion:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim org.nativescript.conFusion:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title org.nativescript.conFusion:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled org.nativescript.conFusion:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId org.nativescript.conFusion:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6418,7 +6420,7 @@ containing a value of this type.
             0x7f0100b3, 0x7f0100b4, 0x7f0100b5, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6439,21 +6441,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:collapsedTitleGravity
+          @attr name org.nativescript.conFusion:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:collapsedTitleTextAppearance
+          @attr name org.nativescript.conFusion:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6464,11 +6466,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentScrim
+          @attr name org.nativescript.conFusion:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6489,11 +6491,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:expandedTitleGravity
+          @attr name org.nativescript.conFusion:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6505,11 +6507,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expandedTitleMargin
+          @attr name org.nativescript.conFusion:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6521,11 +6523,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expandedTitleMarginBottom
+          @attr name org.nativescript.conFusion:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6537,11 +6539,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expandedTitleMarginEnd
+          @attr name org.nativescript.conFusion:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6553,11 +6555,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expandedTitleMarginStart
+          @attr name org.nativescript.conFusion:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6569,21 +6571,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:expandedTitleMarginTop
+          @attr name org.nativescript.conFusion:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:expandedTitleTextAppearance
+          @attr name org.nativescript.conFusion:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6593,11 +6595,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:scrimAnimationDuration
+          @attr name org.nativescript.conFusion:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6609,11 +6611,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:scrimVisibleHeightTrigger
+          @attr name org.nativescript.conFusion:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6624,11 +6626,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:statusBarScrim
+          @attr name org.nativescript.conFusion:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#title}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6638,11 +6640,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:title
+          @attr name org.nativescript.conFusion:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6652,17 +6654,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleEnabled
+          @attr name org.nativescript.conFusion:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:toolbarId
+          @attr name org.nativescript.conFusion:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6671,8 +6673,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode org.nativescript.conFusion2:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier org.nativescript.conFusion2:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode org.nativescript.conFusion:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier org.nativescript.conFusion:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6681,7 +6683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b7, 0x7f0100b8
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6695,11 +6697,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:layout_collapseMode
+          @attr name org.nativescript.conFusion:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6709,7 +6711,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:layout_collapseParallaxMultiplier
+          @attr name org.nativescript.conFusion:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6718,7 +6720,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha org.nativescript.conFusion2:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha org.nativescript.conFusion:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6730,7 +6732,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#alpha}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6740,7 +6742,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:alpha
+          @attr name org.nativescript.conFusion:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6762,8 +6764,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint org.nativescript.conFusion2:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode org.nativescript.conFusion2:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint org.nativescript.conFusion:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode org.nativescript.conFusion:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6779,7 +6781,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6790,11 +6792,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:buttonTint
+          @attr name org.nativescript.conFusion:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6810,7 +6812,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:buttonTintMode
+          @attr name org.nativescript.conFusion:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6819,8 +6821,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines org.nativescript.conFusion2:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground org.nativescript.conFusion2:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines org.nativescript.conFusion:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground org.nativescript.conFusion:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6829,23 +6831,23 @@ containing a value of this type.
             0x7f0100bc, 0x7f0100bd
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#keylines}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:keylines
+          @attr name org.nativescript.conFusion:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:statusBarBackground
+          @attr name org.nativescript.conFusion:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6855,12 +6857,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor org.nativescript.conFusion2:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity org.nativescript.conFusion2:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior org.nativescript.conFusion2:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges org.nativescript.conFusion2:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge org.nativescript.conFusion2:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline org.nativescript.conFusion2:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor org.nativescript.conFusion:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity org.nativescript.conFusion:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior org.nativescript.conFusion:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges org.nativescript.conFusion:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge org.nativescript.conFusion:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline org.nativescript.conFusion:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6881,17 +6883,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:layout_anchor
+          @attr name org.nativescript.conFusion:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6916,11 +6918,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:layout_anchorGravity
+          @attr name org.nativescript.conFusion:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6930,11 +6932,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:layout_behavior
+          @attr name org.nativescript.conFusion:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6953,11 +6955,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:layout_dodgeInsetEdges
+          @attr name org.nativescript.conFusion:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6975,11 +6977,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:layout_insetEdge
+          @attr name org.nativescript.conFusion:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6989,7 +6991,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:layout_keyline
+          @attr name org.nativescript.conFusion:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -6998,9 +7000,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme org.nativescript.conFusion2:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle org.nativescript.conFusion2:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError org.nativescript.conFusion2:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme org.nativescript.conFusion:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle org.nativescript.conFusion:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError org.nativescript.conFusion:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7010,27 +7012,27 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5, 0x7f0100c6
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:bottomSheetDialogTheme
+          @attr name org.nativescript.conFusion:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:bottomSheetStyle
+          @attr name org.nativescript.conFusion:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7041,7 +7043,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:textColorError
+          @attr name org.nativescript.conFusion:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7050,14 +7052,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength org.nativescript.conFusion2:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength org.nativescript.conFusion2:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength org.nativescript.conFusion2:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color org.nativescript.conFusion2:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize org.nativescript.conFusion2:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars org.nativescript.conFusion2:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars org.nativescript.conFusion2:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness org.nativescript.conFusion2:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength org.nativescript.conFusion:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength org.nativescript.conFusion:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength org.nativescript.conFusion:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color org.nativescript.conFusion:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize org.nativescript.conFusion:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars org.nativescript.conFusion:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars org.nativescript.conFusion:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness org.nativescript.conFusion:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7073,7 +7075,7 @@ containing a value of this type.
             0x7f0100cb, 0x7f0100cc, 0x7f0100cd, 0x7f0100ce
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7085,11 +7087,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:arrowHeadLength
+          @attr name org.nativescript.conFusion:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7101,11 +7103,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:arrowShaftLength
+          @attr name org.nativescript.conFusion:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#barLength}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7117,11 +7119,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:barLength
+          @attr name org.nativescript.conFusion:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#color}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7132,11 +7134,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:color
+          @attr name org.nativescript.conFusion:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7148,11 +7150,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:drawableSize
+          @attr name org.nativescript.conFusion:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7164,11 +7166,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:gapBetweenBars
+          @attr name org.nativescript.conFusion:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7178,11 +7180,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:spinBars
+          @attr name org.nativescript.conFusion:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#thickness}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7194,7 +7196,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:thickness
+          @attr name org.nativescript.conFusion:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7203,14 +7205,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint org.nativescript.conFusion2:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode org.nativescript.conFusion2:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth org.nativescript.conFusion2:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize org.nativescript.conFusion2:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ org.nativescript.conFusion2:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor org.nativescript.conFusion2:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding org.nativescript.conFusion2:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint org.nativescript.conFusion:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode org.nativescript.conFusion:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth org.nativescript.conFusion:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize org.nativescript.conFusion:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ org.nativescript.conFusion:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor org.nativescript.conFusion:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding org.nativescript.conFusion:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7226,7 +7228,7 @@ containing a value of this type.
             0x7f0100d2, 0x7f0100d3, 0x7f010147, 0x7f010148
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7237,11 +7239,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:backgroundTint
+          @attr name org.nativescript.conFusion:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7257,11 +7259,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:backgroundTintMode
+          @attr name org.nativescript.conFusion:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7273,11 +7275,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:borderWidth
+          @attr name org.nativescript.conFusion:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7289,11 +7291,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7307,11 +7309,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:fabSize
+          @attr name org.nativescript.conFusion:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7323,11 +7325,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:pressedTranslationZ
+          @attr name org.nativescript.conFusion:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7338,11 +7340,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:rippleColor
+          @attr name org.nativescript.conFusion:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7352,7 +7354,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:useCompatPadding
+          @attr name org.nativescript.conFusion:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7361,7 +7363,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide org.nativescript.conFusion2:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide org.nativescript.conFusion:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7369,7 +7371,7 @@ containing a value of this type.
             0x7f0100d4
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7379,7 +7381,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:behavior_autoHide
+          @attr name org.nativescript.conFusion:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7390,7 +7392,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding org.nativescript.conFusion2:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding org.nativescript.conFusion:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7412,7 +7414,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7422,7 +7424,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:foregroundInsidePadding
+          @attr name org.nativescript.conFusion:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7436,10 +7438,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider org.nativescript.conFusion2:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding org.nativescript.conFusion2:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild org.nativescript.conFusion2:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers org.nativescript.conFusion2:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider org.nativescript.conFusion:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding org.nativescript.conFusion:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild org.nativescript.conFusion:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers org.nativescript.conFusion:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7487,17 +7489,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:divider
+          @attr name org.nativescript.conFusion:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7509,11 +7511,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:dividerPadding
+          @attr name org.nativescript.conFusion:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7523,11 +7525,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:measureWithLargestChild
+          @attr name org.nativescript.conFusion:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7542,7 +7544,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:showDividers
+          @attr name org.nativescript.conFusion:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7681,9 +7683,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout org.nativescript.conFusion2:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass org.nativescript.conFusion2:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass org.nativescript.conFusion2:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout org.nativescript.conFusion:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass org.nativescript.conFusion:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass org.nativescript.conFusion:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7697,9 +7699,9 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription org.nativescript.conFusion2:contentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction org.nativescript.conFusion2:showAsAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText org.nativescript.conFusion2:tooltipText}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription org.nativescript.conFusion:contentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction org.nativescript.conFusion:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText org.nativescript.conFusion:tooltipText}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7729,17 +7731,17 @@ containing a value of this type.
             0x7f0100dc, 0x7f0100dd, 0x7f0100de
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:actionLayout
+          @attr name org.nativescript.conFusion:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7749,11 +7751,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:actionProviderClass
+          @attr name org.nativescript.conFusion:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7763,7 +7765,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:actionViewClass
+          @attr name org.nativescript.conFusion:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7845,7 +7847,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentDescription}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7855,11 +7857,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentDescription
+          @attr name org.nativescript.conFusion:contentDescription
         */
         public static final int MenuItem_contentDescription = 17;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7875,11 +7877,11 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:showAsAction
+          @attr name org.nativescript.conFusion:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tooltipText}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tooltipText}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7889,7 +7891,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tooltipText
+          @attr name org.nativescript.conFusion:tooltipText
         */
         public static final int MenuItem_tooltipText = 18;
         /** Attributes that can be used with a MenuView.
@@ -7905,8 +7907,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing org.nativescript.conFusion2:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow org.nativescript.conFusion2:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing org.nativescript.conFusion:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow org.nativescript.conFusion:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7966,7 +7968,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7976,17 +7978,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:preserveIconSpacing
+          @attr name org.nativescript.conFusion:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:subMenuArrow
+          @attr name org.nativescript.conFusion:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -7998,13 +8000,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout org.nativescript.conFusion2:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground org.nativescript.conFusion2:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint org.nativescript.conFusion2:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance org.nativescript.conFusion2:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor org.nativescript.conFusion2:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu org.nativescript.conFusion2:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout org.nativescript.conFusion:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground org.nativescript.conFusion:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint org.nativescript.conFusion:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance org.nativescript.conFusion:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor org.nativescript.conFusion:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu org.nativescript.conFusion:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8041,7 +8043,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8053,31 +8055,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:headerLayout
+          @attr name org.nativescript.conFusion:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:itemBackground
+          @attr name org.nativescript.conFusion:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8088,21 +8090,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:itemIconTint
+          @attr name org.nativescript.conFusion:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:itemTextAppearance
+          @attr name org.nativescript.conFusion:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8113,17 +8115,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:itemTextColor
+          @attr name org.nativescript.conFusion:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#menu}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:menu
+          @attr name org.nativescript.conFusion:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PointerLayout.
@@ -8132,9 +8134,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PointerLayout_pointerFill org.nativescript.conFusion2:pointerFill}</code></td><td></td></tr>
-           <tr><td><code>{@link #PointerLayout_pointerMargin org.nativescript.conFusion2:pointerMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #PointerLayout_pointerSize org.nativescript.conFusion2:pointerSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #PointerLayout_pointerFill org.nativescript.conFusion:pointerFill}</code></td><td></td></tr>
+           <tr><td><code>{@link #PointerLayout_pointerMargin org.nativescript.conFusion:pointerMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #PointerLayout_pointerSize org.nativescript.conFusion:pointerSize}</code></td><td></td></tr>
            </table>
            @see #PointerLayout_pointerFill
            @see #PointerLayout_pointerMargin
@@ -8144,7 +8146,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e7, 0x7f0100e8, 0x7f0100e9
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#pointerFill}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#pointerFill}
           attribute's value can be found in the {@link #PointerLayout} array.
 
 
@@ -8155,11 +8157,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:pointerFill
+          @attr name org.nativescript.conFusion:pointerFill
         */
         public static final int PointerLayout_pointerFill = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#pointerMargin}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#pointerMargin}
           attribute's value can be found in the {@link #PointerLayout} array.
 
 
@@ -8171,11 +8173,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:pointerMargin
+          @attr name org.nativescript.conFusion:pointerMargin
         */
         public static final int PointerLayout_pointerMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#pointerSize}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#pointerSize}
           attribute's value can be found in the {@link #PointerLayout} array.
 
 
@@ -8187,7 +8189,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:pointerSize
+          @attr name org.nativescript.conFusion:pointerSize
         */
         public static final int PointerLayout_pointerSize = 0;
         /** Attributes that can be used with a PopupWindow.
@@ -8198,7 +8200,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor org.nativescript.conFusion2:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor org.nativescript.conFusion:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8220,7 +8222,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8230,7 +8232,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:overlapAnchor
+          @attr name org.nativescript.conFusion:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8239,7 +8241,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor org.nativescript.conFusion2:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor org.nativescript.conFusion:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8247,7 +8249,7 @@ containing a value of this type.
             0x7f0100eb
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8257,7 +8259,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:state_above_anchor
+          @attr name org.nativescript.conFusion:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RadScrollView.
@@ -8266,8 +8268,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RadScrollView_fillViewport org.nativescript.conFusion2:fillViewport}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadScrollView_scrollMode org.nativescript.conFusion2:scrollMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadScrollView_fillViewport org.nativescript.conFusion:fillViewport}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadScrollView_scrollMode org.nativescript.conFusion:scrollMode}</code></td><td></td></tr>
            </table>
            @see #RadScrollView_fillViewport
            @see #RadScrollView_scrollMode
@@ -8276,7 +8278,7 @@ containing a value of this type.
             0x7f0100ec, 0x7f0100ed
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fillViewport}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fillViewport}
           attribute's value can be found in the {@link #RadScrollView} array.
 
 
@@ -8286,11 +8288,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:fillViewport
+          @attr name org.nativescript.conFusion:fillViewport
         */
         public static final int RadScrollView_fillViewport = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#scrollMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#scrollMode}
           attribute's value can be found in the {@link #RadScrollView} array.
 
 
@@ -8305,7 +8307,7 @@ containing a value of this type.
 <tr><td><code>horizontal</code></td><td>2</td><td></td></tr>
 <tr><td><code>both</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:scrollMode
+          @attr name org.nativescript.conFusion:scrollMode
         */
         public static final int RadScrollView_scrollMode = 1;
         /** Attributes that can be used with a RadScrollViewTheme.
@@ -8314,7 +8316,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RadScrollViewTheme_radScrollViewStyle org.nativescript.conFusion2:radScrollViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadScrollViewTheme_radScrollViewStyle org.nativescript.conFusion:radScrollViewStyle}</code></td><td></td></tr>
            </table>
            @see #RadScrollViewTheme_radScrollViewStyle
          */
@@ -8322,13 +8324,13 @@ containing a value of this type.
             0x7f0100ee
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#radScrollViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#radScrollViewStyle}
           attribute's value can be found in the {@link #RadScrollViewTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:radScrollViewStyle
+          @attr name org.nativescript.conFusion:radScrollViewStyle
         */
         public static final int RadScrollViewTheme_radScrollViewStyle = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8337,8 +8339,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons org.nativescript.conFusion2:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle org.nativescript.conFusion2:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons org.nativescript.conFusion:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle org.nativescript.conFusion:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8347,7 +8349,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ef, 0x7f0100f0
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8359,11 +8361,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:paddingBottomNoButtons
+          @attr name org.nativescript.conFusion:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8375,7 +8377,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:paddingTopNoTitle
+          @attr name org.nativescript.conFusion:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8386,15 +8388,15 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollEnabled org.nativescript.conFusion2:fastScrollEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable org.nativescript.conFusion2:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable org.nativescript.conFusion2:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable org.nativescript.conFusion2:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable org.nativescript.conFusion2:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager org.nativescript.conFusion2:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout org.nativescript.conFusion2:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount org.nativescript.conFusion2:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd org.nativescript.conFusion2:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollEnabled org.nativescript.conFusion:fastScrollEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable org.nativescript.conFusion:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable org.nativescript.conFusion:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable org.nativescript.conFusion:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable org.nativescript.conFusion:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager org.nativescript.conFusion:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout org.nativescript.conFusion:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount org.nativescript.conFusion:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd org.nativescript.conFusion:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8426,7 +8428,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fastScrollEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fastScrollEnabled}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8436,51 +8438,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:fastScrollEnabled
+          @attr name org.nativescript.conFusion:fastScrollEnabled
         */
         public static final int RecyclerView_fastScrollEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fastScrollHorizontalThumbDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fastScrollHorizontalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:fastScrollHorizontalThumbDrawable
+          @attr name org.nativescript.conFusion:fastScrollHorizontalThumbDrawable
         */
         public static final int RecyclerView_fastScrollHorizontalThumbDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fastScrollHorizontalTrackDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fastScrollHorizontalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:fastScrollHorizontalTrackDrawable
+          @attr name org.nativescript.conFusion:fastScrollHorizontalTrackDrawable
         */
         public static final int RecyclerView_fastScrollHorizontalTrackDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fastScrollVerticalThumbDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fastScrollVerticalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:fastScrollVerticalThumbDrawable
+          @attr name org.nativescript.conFusion:fastScrollVerticalThumbDrawable
         */
         public static final int RecyclerView_fastScrollVerticalThumbDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#fastScrollVerticalTrackDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#fastScrollVerticalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:fastScrollVerticalTrackDrawable
+          @attr name org.nativescript.conFusion:fastScrollVerticalTrackDrawable
         */
         public static final int RecyclerView_fastScrollVerticalTrackDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8490,11 +8492,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:layoutManager
+          @attr name org.nativescript.conFusion:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8504,11 +8506,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:reverseLayout
+          @attr name org.nativescript.conFusion:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8518,11 +8520,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:spanCount
+          @attr name org.nativescript.conFusion:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8532,7 +8534,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:stackFromEnd
+          @attr name org.nativescript.conFusion:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8541,7 +8543,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground org.nativescript.conFusion2:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground org.nativescript.conFusion:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8549,7 +8551,7 @@ containing a value of this type.
             0x7f0100fa
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8557,7 +8559,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.nativescript.conFusion2:insetForeground
+          @attr name org.nativescript.conFusion:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8566,7 +8568,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop org.nativescript.conFusion2:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop org.nativescript.conFusion:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8574,7 +8576,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8586,7 +8588,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:behavior_overlapTop
+          @attr name org.nativescript.conFusion:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8599,19 +8601,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon org.nativescript.conFusion2:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon org.nativescript.conFusion2:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint org.nativescript.conFusion2:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon org.nativescript.conFusion2:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault org.nativescript.conFusion2:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout org.nativescript.conFusion2:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground org.nativescript.conFusion2:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint org.nativescript.conFusion2:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon org.nativescript.conFusion2:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon org.nativescript.conFusion2:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground org.nativescript.conFusion2:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout org.nativescript.conFusion2:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon org.nativescript.conFusion2:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon org.nativescript.conFusion:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon org.nativescript.conFusion:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint org.nativescript.conFusion:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon org.nativescript.conFusion:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault org.nativescript.conFusion:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout org.nativescript.conFusion:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground org.nativescript.conFusion:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint org.nativescript.conFusion:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon org.nativescript.conFusion:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon org.nativescript.conFusion:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground org.nativescript.conFusion:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout org.nativescript.conFusion:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon org.nativescript.conFusion:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8663,27 +8665,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:closeIcon
+          @attr name org.nativescript.conFusion:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:commitIcon
+          @attr name org.nativescript.conFusion:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8693,21 +8695,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:defaultQueryHint
+          @attr name org.nativescript.conFusion:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:goIcon
+          @attr name org.nativescript.conFusion:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8717,31 +8719,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:iconifiedByDefault
+          @attr name org.nativescript.conFusion:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#layout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:layout
+          @attr name org.nativescript.conFusion:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:queryBackground
+          @attr name org.nativescript.conFusion:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8751,57 +8753,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:queryHint
+          @attr name org.nativescript.conFusion:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:searchHintIcon
+          @attr name org.nativescript.conFusion:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:searchIcon
+          @attr name org.nativescript.conFusion:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:submitBackground
+          @attr name org.nativescript.conFusion:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:suggestionRowLayout
+          @attr name org.nativescript.conFusion:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:voiceIcon
+          @attr name org.nativescript.conFusion:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8811,8 +8813,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation org.nativescript.conFusion2:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth org.nativescript.conFusion2:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation org.nativescript.conFusion:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth org.nativescript.conFusion:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8828,7 +8830,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8840,11 +8842,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:elevation
+          @attr name org.nativescript.conFusion:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8856,7 +8858,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:maxActionInlineWidth
+          @attr name org.nativescript.conFusion:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8869,7 +8871,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme org.nativescript.conFusion2:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme org.nativescript.conFusion:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8906,13 +8908,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:popupTheme
+          @attr name org.nativescript.conFusion:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8924,17 +8926,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText org.nativescript.conFusion2:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack org.nativescript.conFusion2:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth org.nativescript.conFusion2:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding org.nativescript.conFusion2:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance org.nativescript.conFusion2:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding org.nativescript.conFusion2:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint org.nativescript.conFusion2:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode org.nativescript.conFusion2:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track org.nativescript.conFusion2:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint org.nativescript.conFusion2:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode org.nativescript.conFusion2:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText org.nativescript.conFusion:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack org.nativescript.conFusion:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth org.nativescript.conFusion:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding org.nativescript.conFusion:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance org.nativescript.conFusion:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding org.nativescript.conFusion:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint org.nativescript.conFusion:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode org.nativescript.conFusion:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track org.nativescript.conFusion:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint org.nativescript.conFusion:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode org.nativescript.conFusion:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8976,7 +8978,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#showText}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8986,11 +8988,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:showText
+          @attr name org.nativescript.conFusion:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9000,11 +9002,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:splitTrack
+          @attr name org.nativescript.conFusion:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9016,11 +9018,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:switchMinWidth
+          @attr name org.nativescript.conFusion:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9032,21 +9034,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:switchPadding
+          @attr name org.nativescript.conFusion:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:switchTextAppearance
+          @attr name org.nativescript.conFusion:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9058,11 +9060,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:thumbTextPadding
+          @attr name org.nativescript.conFusion:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9073,11 +9075,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:thumbTint
+          @attr name org.nativescript.conFusion:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9094,21 +9096,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:thumbTintMode
+          @attr name org.nativescript.conFusion:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#track}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:track
+          @attr name org.nativescript.conFusion:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9119,11 +9121,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:trackTint
+          @attr name org.nativescript.conFusion:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9140,7 +9142,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:trackTintMode
+          @attr name org.nativescript.conFusion:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9184,22 +9186,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground org.nativescript.conFusion2:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart org.nativescript.conFusion2:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity org.nativescript.conFusion2:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor org.nativescript.conFusion2:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight org.nativescript.conFusion2:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth org.nativescript.conFusion2:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth org.nativescript.conFusion2:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode org.nativescript.conFusion2:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding org.nativescript.conFusion2:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom org.nativescript.conFusion2:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd org.nativescript.conFusion2:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart org.nativescript.conFusion2:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop org.nativescript.conFusion2:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor org.nativescript.conFusion2:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance org.nativescript.conFusion2:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor org.nativescript.conFusion2:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground org.nativescript.conFusion:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart org.nativescript.conFusion:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity org.nativescript.conFusion:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor org.nativescript.conFusion:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight org.nativescript.conFusion:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth org.nativescript.conFusion:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth org.nativescript.conFusion:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode org.nativescript.conFusion:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding org.nativescript.conFusion:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom org.nativescript.conFusion:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd org.nativescript.conFusion:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart org.nativescript.conFusion:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop org.nativescript.conFusion:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor org.nativescript.conFusion:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance org.nativescript.conFusion:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor org.nativescript.conFusion:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9225,17 +9227,17 @@ containing a value of this type.
             0x7f010121, 0x7f010122, 0x7f010123, 0x7f010124
         };
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:tabBackground
+          @attr name org.nativescript.conFusion:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9247,11 +9249,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabContentStart
+          @attr name org.nativescript.conFusion:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9264,11 +9266,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:tabGravity
+          @attr name org.nativescript.conFusion:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9279,11 +9281,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabIndicatorColor
+          @attr name org.nativescript.conFusion:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9295,11 +9297,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabIndicatorHeight
+          @attr name org.nativescript.conFusion:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9311,11 +9313,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabMaxWidth
+          @attr name org.nativescript.conFusion:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9327,11 +9329,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabMinWidth
+          @attr name org.nativescript.conFusion:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9344,11 +9346,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:tabMode
+          @attr name org.nativescript.conFusion:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9360,11 +9362,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabPadding
+          @attr name org.nativescript.conFusion:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9376,11 +9378,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabPaddingBottom
+          @attr name org.nativescript.conFusion:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9392,11 +9394,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabPaddingEnd
+          @attr name org.nativescript.conFusion:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9408,11 +9410,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabPaddingStart
+          @attr name org.nativescript.conFusion:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9424,11 +9426,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabPaddingTop
+          @attr name org.nativescript.conFusion:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9439,21 +9441,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabSelectedTextColor
+          @attr name org.nativescript.conFusion:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:tabTextAppearance
+          @attr name org.nativescript.conFusion:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9464,7 +9466,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:tabTextColor
+          @attr name org.nativescript.conFusion:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9482,7 +9484,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps org.nativescript.conFusion2:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps org.nativescript.conFusion:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9555,14 +9557,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name org.nativescript.conFusion2:textAllCaps
+          @attr name org.nativescript.conFusion:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9573,20 +9575,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled org.nativescript.conFusion2:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength org.nativescript.conFusion2:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance org.nativescript.conFusion2:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance org.nativescript.conFusion2:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled org.nativescript.conFusion2:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance org.nativescript.conFusion2:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled org.nativescript.conFusion2:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled org.nativescript.conFusion2:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance org.nativescript.conFusion2:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription org.nativescript.conFusion2:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable org.nativescript.conFusion2:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled org.nativescript.conFusion2:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint org.nativescript.conFusion2:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode org.nativescript.conFusion2:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled org.nativescript.conFusion:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength org.nativescript.conFusion:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance org.nativescript.conFusion:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance org.nativescript.conFusion:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled org.nativescript.conFusion:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance org.nativescript.conFusion:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled org.nativescript.conFusion:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled org.nativescript.conFusion:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance org.nativescript.conFusion:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription org.nativescript.conFusion:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable org.nativescript.conFusion:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled org.nativescript.conFusion:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint org.nativescript.conFusion:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode org.nativescript.conFusion:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9624,7 +9626,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9634,11 +9636,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:counterEnabled
+          @attr name org.nativescript.conFusion:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9648,31 +9650,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:counterMaxLength
+          @attr name org.nativescript.conFusion:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:counterOverflowTextAppearance
+          @attr name org.nativescript.conFusion:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:counterTextAppearance
+          @attr name org.nativescript.conFusion:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9682,21 +9684,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:errorEnabled
+          @attr name org.nativescript.conFusion:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:errorTextAppearance
+          @attr name org.nativescript.conFusion:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9706,11 +9708,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:hintAnimationEnabled
+          @attr name org.nativescript.conFusion:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9720,21 +9722,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:hintEnabled
+          @attr name org.nativescript.conFusion:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:hintTextAppearance
+          @attr name org.nativescript.conFusion:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9744,21 +9746,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:passwordToggleContentDescription
+          @attr name org.nativescript.conFusion:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:passwordToggleDrawable
+          @attr name org.nativescript.conFusion:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9768,11 +9770,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:passwordToggleEnabled
+          @attr name org.nativescript.conFusion:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9783,11 +9785,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:passwordToggleTint
+          @attr name org.nativescript.conFusion:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9803,7 +9805,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:passwordToggleTintMode
+          @attr name org.nativescript.conFusion:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9814,33 +9816,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity org.nativescript.conFusion2:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription org.nativescript.conFusion2:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon org.nativescript.conFusion2:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd org.nativescript.conFusion2:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions org.nativescript.conFusion2:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft org.nativescript.conFusion2:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight org.nativescript.conFusion2:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart org.nativescript.conFusion2:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation org.nativescript.conFusion2:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo org.nativescript.conFusion2:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription org.nativescript.conFusion2:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight org.nativescript.conFusion2:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription org.nativescript.conFusion2:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon org.nativescript.conFusion2:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme org.nativescript.conFusion2:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle org.nativescript.conFusion2:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance org.nativescript.conFusion2:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor org.nativescript.conFusion2:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title org.nativescript.conFusion2:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin org.nativescript.conFusion2:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom org.nativescript.conFusion2:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd org.nativescript.conFusion2:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart org.nativescript.conFusion2:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop org.nativescript.conFusion2:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins org.nativescript.conFusion2:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance org.nativescript.conFusion2:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor org.nativescript.conFusion2:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity org.nativescript.conFusion:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription org.nativescript.conFusion:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon org.nativescript.conFusion:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd org.nativescript.conFusion:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions org.nativescript.conFusion:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft org.nativescript.conFusion:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight org.nativescript.conFusion:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart org.nativescript.conFusion:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation org.nativescript.conFusion:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo org.nativescript.conFusion:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription org.nativescript.conFusion:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight org.nativescript.conFusion:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription org.nativescript.conFusion:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon org.nativescript.conFusion:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme org.nativescript.conFusion:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle org.nativescript.conFusion:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance org.nativescript.conFusion:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor org.nativescript.conFusion:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title org.nativescript.conFusion:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin org.nativescript.conFusion:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom org.nativescript.conFusion:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd org.nativescript.conFusion:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart org.nativescript.conFusion:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop org.nativescript.conFusion:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins org.nativescript.conFusion:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance org.nativescript.conFusion:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor org.nativescript.conFusion:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9895,7 +9897,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9908,11 +9910,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:buttonGravity
+          @attr name org.nativescript.conFusion:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9922,21 +9924,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:collapseContentDescription
+          @attr name org.nativescript.conFusion:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:collapseIcon
+          @attr name org.nativescript.conFusion:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9948,11 +9950,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetEnd
+          @attr name org.nativescript.conFusion:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9964,11 +9966,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetEndWithActions
+          @attr name org.nativescript.conFusion:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9980,11 +9982,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetLeft
+          @attr name org.nativescript.conFusion:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9996,11 +9998,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetRight
+          @attr name org.nativescript.conFusion:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10012,11 +10014,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetStart
+          @attr name org.nativescript.conFusion:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10028,21 +10030,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:contentInsetStartWithNavigation
+          @attr name org.nativescript.conFusion:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:logo
+          @attr name org.nativescript.conFusion:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10052,11 +10054,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:logoDescription
+          @attr name org.nativescript.conFusion:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10068,11 +10070,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:maxButtonHeight
+          @attr name org.nativescript.conFusion:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10082,31 +10084,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:navigationContentDescription
+          @attr name org.nativescript.conFusion:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:navigationIcon
+          @attr name org.nativescript.conFusion:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:popupTheme
+          @attr name org.nativescript.conFusion:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10116,21 +10118,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:subtitle
+          @attr name org.nativescript.conFusion:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:subtitleTextAppearance
+          @attr name org.nativescript.conFusion:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10141,11 +10143,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:subtitleTextColor
+          @attr name org.nativescript.conFusion:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#title}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10155,11 +10157,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:title
+          @attr name org.nativescript.conFusion:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10171,11 +10173,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMargin
+          @attr name org.nativescript.conFusion:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10187,11 +10189,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMarginBottom
+          @attr name org.nativescript.conFusion:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10203,11 +10205,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMarginEnd
+          @attr name org.nativescript.conFusion:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10219,11 +10221,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMarginStart
+          @attr name org.nativescript.conFusion:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10235,11 +10237,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMarginTop
+          @attr name org.nativescript.conFusion:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10251,21 +10253,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleMargins
+          @attr name org.nativescript.conFusion:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:titleTextAppearance
+          @attr name org.nativescript.conFusion:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10276,7 +10278,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:titleTextColor
+          @attr name org.nativescript.conFusion:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10287,9 +10289,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd org.nativescript.conFusion2:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart org.nativescript.conFusion2:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme org.nativescript.conFusion2:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd org.nativescript.conFusion:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart org.nativescript.conFusion:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme org.nativescript.conFusion:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10314,7 +10316,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10326,11 +10328,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:paddingEnd
+          @attr name org.nativescript.conFusion:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10342,17 +10344,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:paddingStart
+          @attr name org.nativescript.conFusion:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#theme}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.nativescript.conFusion2:theme
+          @attr name org.nativescript.conFusion:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10362,8 +10364,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint org.nativescript.conFusion2:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode org.nativescript.conFusion2:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint org.nativescript.conFusion:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode org.nativescript.conFusion:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10379,7 +10381,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10390,11 +10392,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.nativescript.conFusion2:backgroundTint
+          @attr name org.nativescript.conFusion:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link org.nativescript.conFusion2.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.conFusion.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10410,7 +10412,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name org.nativescript.conFusion2:backgroundTintMode
+          @attr name org.nativescript.conFusion:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

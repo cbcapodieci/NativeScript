@@ -5,7 +5,7 @@ package org.nativescript.conFusion2;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "org.nativescript.conFusion2";
+  public static final String APPLICATION_ID = "org.nativescript.conFusion";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "F0F1";
   public static final int VERSION_CODE = 1;

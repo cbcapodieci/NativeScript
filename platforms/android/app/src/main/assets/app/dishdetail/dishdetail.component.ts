@@ -135,9 +135,6 @@ export class DishdetailComponent implements OnInit {
           });
     }
 
-    goBack(): void {
-      this.routerExtensions.back();
-    }
     onSwipe(args: SwipeGestureEventData) {
 
       if (this.dish) {
@@ -227,5 +224,9 @@ export class DishdetailComponent implements OnInit {
       .catch((e) => {
           console.log(e.message);
       });
+    }
+
+    goBack(): void {
+      this.routerExtensions.back();
     }
 }

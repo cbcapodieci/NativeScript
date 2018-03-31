@@ -469,13 +469,13 @@ public final class R {
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int gingerbread_background = 0x7f02005c;
         public static final int ic_collapse = 0x7f02005f;
-        public static final int ic_expand = 0x7f020060;
-        public static final int notification_template_icon_bg = 0x7f020075;
-        public static final int pressable_item_background = 0x7f02006e;
-        public static final int selectable_item_background = 0x7f02006f;
-        public static final int shade_bottom = 0x7f020070;
-        public static final int shade_corner = 0x7f020071;
-        public static final int shade_right = 0x7f020072;
+        public static final int ic_expand = 0x7f020061;
+        public static final int notification_template_icon_bg = 0x7f020077;
+        public static final int pressable_item_background = 0x7f02006f;
+        public static final int selectable_item_background = 0x7f020071;
+        public static final int shade_bottom = 0x7f020072;
+        public static final int shade_corner = 0x7f020073;
+        public static final int shade_right = 0x7f020074;
     }
     public static final class id {
         public static final int action0 = 0x7f0c0095;
