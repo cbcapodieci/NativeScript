@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\b072533e9f0cfe2d0acf18f10c260404b5f56220\output\jars\classes.jar"
+        jar="C:\Users\Bryce\.android\build-cache\4fa8ab41117996e7ccd5f2054bf8834a8d1bf6cb\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_e8ac5c8d309e0f7db8d4ed8d0c7c4719c1be2bb4.jar" />
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_4b746d4408feee35c7909e2dfa4238d41b34e2be.jar" />
     </item>
 
 </items>

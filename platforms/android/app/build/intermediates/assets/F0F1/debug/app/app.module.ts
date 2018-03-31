@@ -73,7 +73,8 @@ import { baseURL } from './shared/baseurl';
         ProcessHTTPMsgService,
         PromotionService,
         LeaderService,
-        FavoriteService
+        FavoriteService,
+        CouchbaseService
         
     ],
     schemas: [

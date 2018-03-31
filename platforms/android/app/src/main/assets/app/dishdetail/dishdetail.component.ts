@@ -143,11 +143,6 @@ export class DishdetailComponent implements OnInit {
         this.commentList = <View>this.page.getViewById<View>("commentList");
   
         if (args.direction === SwipeDirection.up && !this.showComments ) {
-          this.animateUp();
-        }
-        else if (args.direction === SwipeDirection.down && this.showComments ) {
-          this.showComments = false;
-          this.animateDown();
         }
       }
   
@@ -227,6 +222,5 @@ export class DishdetailComponent implements OnInit {
     }
 
     goBack(): void {
-      this.routerExtensions.back();
     }
 }
