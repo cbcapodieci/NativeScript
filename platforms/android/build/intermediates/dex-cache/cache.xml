@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\37358724c62f5be68552e8de011d7f6b79e6b0dc\output\jars\classes.jar"
+        jar="C:\Users\Bryce\.android\build-cache\7601e0e754f89e76bf3ee3548be991c7ec34159c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3F4\debug\classes_153fc9f6d42c7ea81f7273d78d09f47bf808c6b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\3251f9809c66aca4e580076660e820d3feedeab8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c815c82f2b273b526497d2d2c9d80e314fc66871">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3F4\debug\classes_a5ed08e58856344c42142129b20fcc5042c09a45.jar" />
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3F4\debug\classes_7faf4d24a4bc4369efecba46f19cbb00885dc4a4.jar" />
     </item>
 
 </items>

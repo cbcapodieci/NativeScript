@@ -13,14 +13,15 @@ import { UserAuthComponent } from "./userauth/userauth.component";
 
 const routes: Routes = [
     { path: "", redirectTo: "/home", pathMatch: "full" },
+    { path: "auth", component: UserAuthComponent },
     { path: "home", component: HomeComponent },
     { path: "about", component: AboutComponent },
     { path: "menu", component: MenuComponent },
     { path: "contact", component: ContactComponent },
     { path: "favorites", component: FavoritesComponent },
-    { path: 'dishdetail/:id', component: DishdetailComponent },
-    { path: "auth", component: UserAuthComponent },
     { path: "reservation", component: ReservationComponent }, //Assignment 3
+    { path: 'dishdetail/:id', component: DishdetailComponent },
+    
 ];
 
 @NgModule({
