@@ -24,7 +24,7 @@ import { ImageSource, fromUrl } from "image-source";
     selector: 'app-dishdetail',
     moduleId: module.id,
     templateUrl: './dishdetail.component.html',
-    styleUrls: ['./dishdetail.component.css']
+
 })
 export class DishdetailComponent implements OnInit {
 
@@ -129,9 +129,6 @@ export class DishdetailComponent implements OnInit {
     });
   } 
 
-  
-
-  
   goBack(): void {
     this.routerExtensions.back();
   }

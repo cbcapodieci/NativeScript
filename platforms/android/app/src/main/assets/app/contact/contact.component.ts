@@ -5,7 +5,7 @@ import * as Email from 'nativescript-email';
 
 @Component({
   selector: 'app-contact',
-    moduleId: module.id,
+  moduleId: module.id,
   templateUrl: './contact.component.html'
 })
 export class ContactComponent extends DrawerPage implements OnInit {

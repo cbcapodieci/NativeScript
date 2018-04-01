@@ -4,6 +4,10 @@
         "directory": "..\\..\\node_modules\\nativescript-angular"
     },
     {
+        "name": "nativescript-camera",
+        "directory": "..\\..\\node_modules\\nativescript-camera"
+    },
+    {
         "name": "nativescript-couchbase",
         "directory": "..\\..\\node_modules\\nativescript-couchbase"
     },
@@ -42,6 +46,10 @@
     {
         "name": "nativescript-intl",
         "directory": "..\\..\\node_modules\\nativescript-intl"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
     },
     {
         "name": "tns-core-modules-widgets",

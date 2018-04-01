@@ -3,129 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\568aff48113c360b6e817db07f8f0826c2a44411\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="2ce3006140ca3087f08a9f0ba1211255253474c5">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_f16497c68987bd684ad53f1b6df73a605a703476.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\common-1.0.0_491d7f57cf867faeb1c98a9ae9a4c5266d083f73.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\common-1.0.0_1923a4487022639b380fa4e6aa79670ef32f9c20.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\e4e0f8bcea5bf3f995b44932611b4de89b750950\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d088d4c4b8e4427ef1fd035dc400121751230477">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_aca54e9971d99a278391beffff31fbacb27a3a1b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\8abfbf33a5b6cfa71468f54aee6a0cfac7c2fe10\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_ff0a8db2191e82954e148d84d0d733c35b9a32ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\1b0ef3844c226d36c98af521c2e7e962145a8012\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_c9196c530bbecc157310ad30609169fc57f8e563.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-26.1.0_8c386272b2a57ea9fbb594307fd09fa086c7fc3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\705cdbd15ccf67bc1c5002fee169ba8b69725ddf\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c82bc8adb671652b83ea2d785d0847435e4f3442">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_beec05a6bd0207dd76a4a7124293d3896c359970.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\facbec4ccd8660ee0d1d099004c9cc4f60bb2bb4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_6e39b7cbc68697ee4777ee98029a29863278d698.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\bda1b77c60adf9adc801dc5c6684065705d0afae\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_63ff8e67af7ebd3d1e86d2e6ba490cc4ecea79c6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\6c88bcc3f83c6f6526a473aa82cd2989ae2c4f20\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_48896b4e85b559a430580c102b478c86a7898b54.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\db5cce810063f05e0c23638859dac653562b0dd9\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_0b5d84e2cd2dbc93dde6f71726356d51848f7214.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\4fa8ab41117996e7ccd5f2054bf8834a8d1bf6cb\output\jars\classes.jar"
+        jar="C:\Users\Bryce\.android\build-cache\37358724c62f5be68552e8de011d7f6b79e6b0dc\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_4b746d4408feee35c7909e2dfa4238d41b34e2be.jar" />
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3F4\debug\classes_153fc9f6d42c7ea81f7273d78d09f47bf808c6b5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Bryce\.android\build-cache\32420e58af3ab92ce5227163ad9fa1ae77eb7bad\output\jars\classes.jar"
+        jar="C:\Users\Bryce\.android\build-cache\3251f9809c66aca4e580076660e820d3feedeab8\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_6af8634452a8ef3e0f1bf23b6c048ea641c4f65c.jar" />
+        sha1="c815c82f2b273b526497d2d2c9d80e314fc66871">
+        <dex dex="C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3F4\debug\classes_a5ed08e58856344c42142129b20fcc5042c09a45.jar" />
     </item>
 
 </items>

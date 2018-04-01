@@ -90,6 +90,8 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-camera\camera.common.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-camera\camera.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-couchbase\couchbase.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-email\email.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
@@ -100,6 +102,7 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\nativescript-ngx-fonticon.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\pipes\fonticon.pipe.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\services\fonticon.service.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-permissions\permissions.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-telerik-ui\scripts\eula-prompt.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-toasty\toasty.js
@@ -255,3 +258,4 @@ C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\sr
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\Users\Bryce\Desktop\coursera\NativeScript\conFusion2\platforms\android\app\src\main\assets\app\userauth\userauth.component.js

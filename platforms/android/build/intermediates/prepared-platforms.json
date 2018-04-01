@@ -10,6 +10,7 @@
     "@angular/router": true,
     "font-awesome": true,
     "nativescript-angular": true,
+    "nativescript-camera": true,
     "nativescript-couchbase": true,
     "nativescript-email": true,
     "nativescript-local-notifications": true,
@@ -24,6 +25,7 @@
     "zone.js": true,
     "tslib": true,
     "nativescript-intl": true,
+    "nativescript-permissions": true,
     "symbol-observable": true,
     "tns-core-modules-widgets": true
 }
